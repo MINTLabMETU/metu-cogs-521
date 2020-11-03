@@ -27,4 +27,14 @@ Try to make your code accessible, meaning taking good care of stucture, naming, 
 
 ## Part II
 
-TBA
+- **\[topic\]** grammatical tagging
+- **\[due\]** 11th of Nov.
+- **\[programming language\]** any
+- **\[input language\]** same as part I
+- **\[tasks\]** code a grammatical tagger that analyzes the output of part I
+  1. segment input into sentences
+  2. **(a)** apply dependency parsing to all instances by utilizing a dedicated 3rd party library, **(b)** merge segments conforming to the scope of the original (i.e. input) data points and **(c)** export the output enchanced with the analysis
+
+  ## Part III
+
+  TBA
