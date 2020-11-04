@@ -5,7 +5,7 @@ Fall 2020, Department of Cognitive Science, METU
 
 ## Preliminaries
 
-**Medium**: `odtüclass` for course material, `github` for progressive assignments (a single repo, students in distinct folders), `googlegroups` for communication
+**Medium**: `odtüclass` for course material, `github` for progressive assignments (a single [repo](https://github.com/foter/metu-cogs-520), students in distinct folders), `googlegroups` for communication
 
 **Requirements**: basic programming skills (preferably in one that's commonly utilized for nlp applications, e.g. python); basic linguistics knowledge (e.g. an introductory course taken before)
 
@@ -85,7 +85,7 @@ This week we will get familiar with how to approach any kind of text as data and
 
 - **\[assignments\]** part I
     - **\[programming language\]** any
-    - **\[input language\]** English
+    - **\[input language\]** any
     - **\[tasks\]** code a basic preprocesser with a similar scope examplified in the online tutorial, which utilizes third party processes (e.g. Stanford NLP pipeline) when necessary
 
 ### Week 4 - Tagging
@@ -95,7 +95,7 @@ After the language data is purged from noise (both as disturbance and redundancy
 - **\[sync.\]** online tutorial, part II 
     - **\[programming language\]** Python
     - **\[input language\]** Turkish
-    - **\[tasks\]** (i) analyze the output of part I morphologically and (ii) output the results where the associated linguistic analysis is encoded explicitly
+    - **\[tasks\]** (i) analyze the output of part I morphologically and (ii) output the results where the associated linguistic analysis is encoded explicitly.
 
 - **\[async.\]** on word level analysis (ch. 3, Jurafsky & Martin); on syntactic analysis, (ch. 12, Jurafsky & Martin); on tagged data (ch. 5.2, Bird et al. and ch. 4.3, Manning & Schütze)
 
@@ -105,8 +105,8 @@ After the language data is purged from noise (both as disturbance and redundancy
 
 - **\[assignments\]** part II
     - **\[programming language\]** any
-    - **\[input language\]** English
-    - **\[tasks\]** (i) apply dependency parsing on the output of part II and (ii) output the results where dependency relations are encoded explicitly
+    - **\[input language\]** same as part I
+    - **\[tasks\]** (i) apply dependency parsing on the output of part II and (ii) output the results where dependency relations are encoded explicitly.
 
 ### Week 5 - Structuring
 
