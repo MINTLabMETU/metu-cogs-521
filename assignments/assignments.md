@@ -35,6 +35,6 @@ Try to make your code accessible, meaning taking good care of stucture, naming, 
   1. segment input into sentences
   2. **(a)** apply dependency parsing to all instances by utilizing a dedicated 3rd party library, **(b)** merge segments conforming to the scope of the original (i.e. input) data points and **(c)** export the output enchanced with the analysis
 
-  ## Part III
+## Part III
 
-  TBA
+TBA
