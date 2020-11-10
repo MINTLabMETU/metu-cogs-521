@@ -2,7 +2,7 @@
 
 All asignments will be uploaded here.
 
-1. `clone` (or `pull` from) the **metu-cogs-520** repository to your machine.
+1. `clone` (or `pull` from) the **metu-cogs-520** repository to your machine. 
 2. Work under the directory named in your id.
 3. `commit` and `push` the changes.
 
@@ -36,5 +36,16 @@ Try to make your code accessible, meaning taking good care of stucture, naming, 
   2. **(a)** apply dependency parsing to all instances by utilizing a dedicated 3rd party library, **(b)** merge segments conforming to the scope of the original (i.e. input) data points and **(c)** export the output enchanced with the analysis
 
 ## Part III
+
+- **\[topic\]** restructuring data
+- **\[due\]** 18th of Nov.
+- **\[programming language\]** any
+- **\[input language\]** same as before
+- **\[tasks\]** code a script that restructures the output of part II
+  1. **(a)** read the input and iteratively restructure it so that the resultant data structure is transparent, allowing efficient access considering future data analyses. prefer an embedded process instead of a cascaded one to improve runtimes. **(b)** briefly discuss why you structured the data in the exact way you did.
+  2. **(c)** compare xml, json and yaml file formats. choose one that best suits your requirements. briefly discuss your choice. **(d)** export the data in the chosen format.
+  3. **(e)** if any, export meta-data that is potentially useful for future analysis in adequate formats. briefly discuss why the additional chunks of data may prove worthy.
+
+## Part IV
 
 TBA
