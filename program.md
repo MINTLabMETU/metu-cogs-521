@@ -115,7 +115,7 @@ Processing data (be it textual or otherwise) means structuring it according to a
 - **\[sync.\]** online tutorial, part III 
     - **\[programming language\]** Python
     - **\[input language\]** Turkish
-    - **\[tasks\]** (i) read the output of part II into a dictionary and (ii) export the dictionary to a csv file while preserving the original structure of the data
+    - **\[tasks\]** (i) read the output of part II, (ii) restructure the data to obtain transparent structure allowing efficient access and (iii) export the resultant database to a csv file
 
 - **\[async.\]** on tokenization and segmentation (ch. 4.2, Manning & Schütze); on storing structured data in python (ch. 5.3, Steven Bird et al.)
 
@@ -126,7 +126,7 @@ Processing data (be it textual or otherwise) means structuring it according to a
 - **\[assignments\]** part III
     - **\[programming language\]** any
     - **\[input language\]** English
-    - **\[tasks\]** (i) read the output of part II into an appropriate data structure and (ii) export the dictionary to a json file while preserving the original structure of the data
+    - **\[tasks\]** (i) read the output of part II, (ii) restructure the data to obtain transparent structure allowing efficient access and (iii) export the resultant database to a json file
 
 ### Week 6 - Analysis
 
