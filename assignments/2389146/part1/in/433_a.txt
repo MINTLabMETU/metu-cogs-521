@@ -1,0 +1,6 @@
+
+The NS is our lightweight model, hence we use our lightest frame with the lightest fork.
+
+Thanks,
+Yan
+					

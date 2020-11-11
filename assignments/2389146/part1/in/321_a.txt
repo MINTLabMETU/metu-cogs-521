@@ -1,0 +1,18 @@
+
+Hi
+
+James is right.  The Bike Fridays pivot point is behind the bottom bracket so two things happen.
+
+(1) The distance between the crank set and rear hub changes as you fold the bike.  It gets shorter so the chain tends to drop off unless the derailleur can eat the slack.
+(2) The front derailleur doesnt move so the chain tends to catch the bottom of the front derailleur cage and pull it out of place.
+
+This is exacerbated because the pivot is also angled so the rear triangle/rear wheel folds up to one side of the top tube.  This causes the chain to exert a sideways force on the cogs, cranks and derailleurs unless youre very very careful about the set up before the fold.  The perfect chain line in the unfolded position is angled in the folded position.  The front derailleur is often the most affected  and the chain tends to fall off the chain rings as well.
+
+The Swift has what was described as a unified rear triangle (URT) on early-model full suspension mountain bikes.  (The old Klein Mantra is the best example, although there were several others  Trek Y bikes for example).  With these bikes, the relationship between the front crank set/front derailleur and the rear hub/rear derailleur, chain line and chain length remained constant as the rear triangle moved.
+
+The Swift adopts this principle and takes it to an extreme.  The bottom bracket (and front derailleur if fitted) is part of the folding rear triangle and so the bottom bracket to dropout distance never changes.  Also, the pivot point is not angled, so, when you fold the Swift, not only does the rear triangle/rear wheel fold directly under the top tube but also:
+(3) The distance between the crank set and rear hub remains constant as you fold the bike.
+(4) The front derailleur moves with the fold so the chain doesnt do anything to the derailleurs because the chain length and chain line dont change from the unfolded position.
+
+Theres a good article about the difference between Bike Fridays and Swifts here =>  - and ask a Bike Friday owner with a front derailleur to fold their bike so you can see what happens for yourself.  The Air Fridays may not suffer from this problem to the same extent.
+					

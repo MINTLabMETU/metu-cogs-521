@@ -1,0 +1,7 @@
+What? Those adapters don’t work on 135 QR hubs.
+
+Maybe we are answering different questions here. Someone asked if it was possible to convert 135mm hub to Boost (148x12).
+
+The answer is yes.... IF the hub itself is convertible (and many mid-high end hubs are).
+
+However, if not (such as with many shimano hubs), there are no aftermarket end cap adapters (that I know of) that will let you stick a 135 QR hub in a boost frame spacing. The ones you linked to do not do that.

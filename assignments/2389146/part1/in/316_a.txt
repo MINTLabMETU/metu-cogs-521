@@ -1,0 +1,18 @@
+
+Hi kb5ql
+
+Check out the specs on my Swift posted on page 33.  I'm running an SRAM Dual Drive.  Twist shifter on a HubBub adaptor on one bar end, bar end shifter on the other.  There are a couple of pics there too.
+
+When researching the issue of using drop bar levers with V or mechanical disk brakes, I came across a couple of sites that didn't find Travel Agents (or similar solutions) satisfactory.  You've three other alternatives.
+
+(1) use Diacompe/Diatech 287 V brake specific levers or
+
+(2) use a short pull (mini v-brake) set up as used on BMX bikes see => .  Tektro have upgraded their mini v-brake range see => .  These brakes will work with road brake levers.  If you check out the mini v-brakes on these two pages, you could find something that suits => 
+You'll need a model with this specification: Brake Lever Actuation = Short Pull (such as the BX3Vs)
+
+(3) There are also a whole new range of low profile cantilevers (Avid, Cane Creek, Tektro) appearing on 'cross bikes that use normal drop bar levers.  Only trouble with small wheels is that big feet tend to catch on the rear cantilever.  Check out =>  and ask Sheldon what he would do.
+
+I think my brother is running Avid low profile cantilevers with Shimano levers on a Moulton with a Rohloff 14 speed internal hub.
+
+Hope this helps.
+					
