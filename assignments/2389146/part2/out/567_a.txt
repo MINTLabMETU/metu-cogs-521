@@ -1,0 +1,1 @@
+glad (ROOT) you (nsubj) got (ccomp) that (mark) all (nsubj) worked (ccomp) out (prt). i (nsubj) m (dep) gon (ROOT) na (aux) leave (xcomp) mine (dobj) as (mark) is (advcl) for (prep) now (pcomp) thought (pobj)

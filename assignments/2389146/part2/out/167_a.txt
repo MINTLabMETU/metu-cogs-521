@@ -1,0 +1,1 @@
+totems (nsubj) are (ROOT) sick (amod) forks (nsubj) remember (ccomp) when (advmod) people (nsubj) used (advcl) laugh (xcomp) the (det) price (compound) years (npadvmod) ago (advmod). who (dative) the (det) heck (nsubj) would (aux) pay (ROOT) that (advmod) much (dobj)

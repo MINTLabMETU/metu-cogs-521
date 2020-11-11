@@ -1,0 +1,1 @@
+true (ROOT) but (cc) if (mark) remember (advcl) correctly (advmod) many (amod) medium (amod) high (amod) end (compound) wheel (compound) sets (nsubj) made (ROOT) conversion (compound) kit (dobj)

@@ -1,0 +1,1 @@
+then (advmod) your (nsubj) making (ROOT) huge (amod) mistake (dobj). only (advmod) Tern (nsubj) has (aux) been (ROOT) so (advmod) horrible (acomp) with (mark) their (poss) bikes (nsubj) build (advcl) quality (dobj) . (punct)

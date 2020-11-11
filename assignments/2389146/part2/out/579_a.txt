@@ -1,0 +1,1 @@
+that (nsubj) s (ROOT) why (advmod) have (nmod) or (cc) of (conj) them (pobj) parts (compound) bikes (ccomp) if (mark) necessary (advcl)

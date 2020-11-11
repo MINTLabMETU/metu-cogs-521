@@ -1,0 +1,1 @@
+are (ROOT) members (attr) here (advmod) because (prep) of (pcomp) common (amod) interest (compound) bicycles (pobj). whether (mark) road (nmod) hybrid (amod) man (nsubj) folding (ROOT) classic (amod) cruiser (compound) etc (dobj). riding (amod) bike (nsubj) is (ROOT) good (amod) things (attr)

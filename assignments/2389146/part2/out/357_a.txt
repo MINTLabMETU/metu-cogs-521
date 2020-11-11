@@ -1,0 +1,1 @@
+the (det) test (compound) bike (compound) paint (nsubj) happening (ROOT). do (aux) have (ROOT) full (amod) proof (dobj). no (ROOT). could (aux) proven (ROOT) wrong (oprd) in (prep) the (det) next (amod) few (amod) days (pobj)

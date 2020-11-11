@@ -1,0 +1,1 @@
+i (nsubj) ve (aux) never (neg) seen (ROOT) another (det) person (compound) team (nsubj) photo (ccomp) just (advmod) the (det) one (appos) for (prep) xmas (pobj). was (ROOT) this (nsubj) something (attr) from (prep) previous (amod) years (pobj)

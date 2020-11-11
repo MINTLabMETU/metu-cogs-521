@@ -1,0 +1,1 @@
+that (nsubj) s (ROOT) exactly (advmod) why (advmod) post (attr) the (det) whole (amod) thing (dobj) in (prep) english (compound) forum (pobj) as (advmod) well (advmod)

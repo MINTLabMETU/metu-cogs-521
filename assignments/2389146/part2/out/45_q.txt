@@ -1,0 +1,1 @@
+everywhere (advmod) can (ROOT) single (amod) track (pobj). when (advmod) are (ROOT) those (det) skinny (amod) tired (amod) bikes (nsubj) actually (advmod) fund (attr)

@@ -1,0 +1,1 @@
+the (det) panniers (nsubj) fit (ROOT) fine (advmod) the (det) rack (dobj)

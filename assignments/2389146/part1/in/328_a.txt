@@ -1,0 +1,22 @@
+
+Hi big boy phil
+
+Alex Wetmore publishes a Bike Friday vs. Swift article on his website, which is worth a read.  For background, I own:
+(1) a custom built, steel framed road bike designed for me by Australias best bike fitter.
+(2) a Bike Friday Pocket Rocket Pro.
+(3) a customised XOOTR Swift.
+I bought the Bike Friday because it packed up in a suitcase, making it easier to travel by air.  Unfortunately, I discovered the Swift Id bought the Bike Friday .  I built up the Swift because of problems I had folding the Bike Friday.  proposed an elegant solution to the BF folding problem (above).  Why didnt I think of that!  Thank you,  .
+I prefer to ride the full sized bike  the Bike Friday or the Swift will never replace it until I cant throw my leg over the big bikes saddle.  The BF and Swift are twitchier due to smaller wheels, higher bottom brackets and fork offset/trail dimensions.  Properly configured, either can hang with the big boys  and I havent noticed any discernable difference in handling between them.
+
+Your main problem will be gearing.  A 56t front chain ring and 9-32 (modified Capreo) or 11-32 (if youre happy pumping a max of 102 gear inches) 9-speed cassette should work just fine.  Note that a 1T difference in the rear cogs is not as discernable on 20 wheels as it is on 27 wheels so you can live with bigger jumps (11-13-15 etc) in the rear cluster without detracting from the road bike look and feel.  If you can live with the slight weight penalty, the SRAM Dual Drive or Rohloff are the go for multi gearing small wheel bikes with one front chain ring.  Depends on what you need and how much you can afford.
+
+Bike Friday may not duplicate your position on your favourite bike.  As far as I know, the Pocket Rocket frames are built with a fixed 72 degree head and seat tube angle.  Also, the frames are built in 2 cm (virtual) top tube increases from somewhere around 46 cm through to 60+ cm.  If you like riding with a stem length between 90-110 mm and your road bike seat tube is 71 degrees, you may have to compromise your road bike position on a BF.
+
+If I was asked to choose between a Bike Friday and Swift with identical components, Id come down on the side of the Swift because it would cost much less while providing the flexibility to reconfigure it as you please.  Its only drawback is that it comes in one size and the seat post is fixed.
+
+Im surprised with BFs change of heart about fixies because it certainly promoted them last year on its old web site and dedicated considerable space to BF riders single speed and fixie bikes and their exploits.  I think it even offered one in its 2006 range.
+
+(see post at the top of page 34) is contemplating the front derailer route on a Swift.  Whether braze on or clamp, remember that the chain slopes from the chain rings to the rear cluster on small wheeled bikes (that is, the chain is not parallel to the ground as it is on a full size bike) so the derailer tab needs to be offset from the seat tube, not to it.  If the seat tube angle is 72 degrees, the FD tab will probably less than this; Im not sure how much but it shouldnt be too hard to work out with a little math.
+Looking forward to seeing how you and kb5ql go.
+OziSwift
+					

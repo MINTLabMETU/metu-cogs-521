@@ -1,0 +1,1 @@
+they (nsubj) are (ROOT) pretty (advmod) wide (acomp) have (aux) even (advmod) used (advcl) mm (dobj) tires (dobj). though (mark) currently (advmod) have (ROOT) mm (dobj) vittoria (appos) now (advmod). ill (nsubj) try (ROOT) measure (dobj) tomorrow (npadvmod)

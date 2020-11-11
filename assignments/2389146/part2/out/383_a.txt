@@ -1,0 +1,1 @@
+buy (ROOT) something (dobj) else (advmod) now (advmod). you (nsubj) can (aux) wait (ROOT) for (prep) the (det) Helix (pobj) as (mark) retirement (compound) gift (advcl) yourself (dobj) a (npadvmod)

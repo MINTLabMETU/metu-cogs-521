@@ -1,0 +1,1 @@
+have (aux) heard (ROOT) numbers (dobj) and (cc) never (neg) got (conj) anything (dobj) solid (amod) it (nsubjpass) was (auxpass) discontinued (relcl) so (advmod) ca (aux) nt (neg) even (advmod) find (conj) recent (amod) info (dobj). and (cc) were (ROOT) most (advmod) common (acomp) and (cc) was (conj) one (attr) of (prep) two (nummod) trials (compound) riders (pobj)

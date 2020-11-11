@@ -1,0 +1,1 @@
+just (advmod) found (ROOT) this (det) pokingaround (nsubj) the (det) door (compound) bike (compound) gallery (ccomp) httpxootr.comxootrswiftimages.Washington.jpg (ROOT) It (nsubj) looks (ROOT) like (mark) Karl (nsubj) is (aux) running (advcl) wheel (dobj) the (det) front (npadvmod)

@@ -1,0 +1,1 @@
+so (advmod) what (dobj) are (aux) you (nsubj) trying (ROOT) say (dobj)

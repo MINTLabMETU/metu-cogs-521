@@ -1,0 +1,1 @@
+owner (nsubj) said (ROOT) the (det) degree (nsubj) of (prep) the (det) stem (pobj) is (ccomp) degrees (attr). are (ROOT) the (det) stems (nsubj) adjustable (amod) or (cc) does (aux) the (det) bike (nsubj) just (advmod) use (conj) different (amod) stem (dobj)

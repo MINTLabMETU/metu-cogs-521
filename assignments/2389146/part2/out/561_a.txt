@@ -1,0 +1,1 @@
+my (poss) dropper (nsubj) seems (ROOT) work (xcomp) fine (oprd). too (advmod) was (ROOT) amazed (acomp) how (advmod) light (attr) the (det) front (amod) wheel (nsubj) was (ccomp)

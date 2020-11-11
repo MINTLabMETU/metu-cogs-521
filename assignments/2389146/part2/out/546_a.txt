@@ -1,0 +1,1 @@
+still (advmod) love (ROOT) it (dobj) though (advmod) particularly (advmod) the (det) tight (amod) trails (dobj)

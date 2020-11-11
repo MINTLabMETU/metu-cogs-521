@@ -1,0 +1,1 @@
+they (nsubj) are (aux) being (ROOT) but (cc) they (nsubj) are (conj) also (advmod) very (advmod) eco (npadvmod) friendly (acomp). they (nsubj) recycle (ROOT) just (advmod) about (prep) everything (pobj) they (nsubj) use (relcl) . (punct) That (nsubj) makes (ROOT) them (nsubj) worth (ccomp) it (npadvmod) some (det) people (npadvmod)

@@ -1,0 +1,1 @@
+dans (compound) Comp (nsubj) has (ROOT) down (prt) in (prep) both (pobj) and (cc) not (neg) sure (conj) what (det) size (attr) your (poss) drivetrain (nsubj) is (ccomp) . (punct)

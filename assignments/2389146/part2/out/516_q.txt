@@ -1,0 +1,1 @@
+compression (nsubj) and (cc) rebound (amod) control (conj) are (ROOT) more (advmod) important (amod) me (attr). honestly (advmod) would (aux) never (neg) use (ROOT) the (det) lockout (amod) feature (dobj). thanks (ROOT) Yan (npadvmod)

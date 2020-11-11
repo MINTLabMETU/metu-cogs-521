@@ -1,0 +1,1 @@
+hmmm.yes.ok.that (nsubj) really (advmod) required (ROOT) quote (intj) . (punct) GN (ROOT) . (punct)

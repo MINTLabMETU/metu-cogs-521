@@ -1,0 +1,1 @@
+ok (intj) agree (ROOT) normal (amod) pricing (dobj). but (cc) get (ROOT) fsa (dobj) cheap (acomp). the (det) dh (nsubj) pro (aux) got (ROOT) for (prep) can (pobj). chris (compound) King (compound) headsets (nsubj) are (ROOT) around (advmod) can (npadvmod). was (ROOT) over (prep) exaggerating (pcomp) my (poss) point (dobj). sorry (ROOT)

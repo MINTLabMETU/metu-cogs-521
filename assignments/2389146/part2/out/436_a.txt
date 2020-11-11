@@ -1,0 +1,1 @@
+it (nsubj) should (aux) fine (ROOT). however (advmod) one (nsubj) must (aux) keep (ROOT) factor (dobj) in (prep) mind (pobj) when (advmod) talking (advcl) about (prep) any (det) bicycle (compound) fitting (pobj). thanks (ROOT) Yan (npadvmod)

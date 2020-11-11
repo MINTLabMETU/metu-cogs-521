@@ -1,0 +1,1 @@
+is (aux) it (nsubj) better (advmod) put (ROOT) Kojak (amod) tires (dobj) the (det) rear (amod) and (cc) different (conj) wider (amod) tire (dobj) the (det) front (npadvmod). is (auxpass) this (nsubj) recommended (ROOT) or (cc) anyone (conj) doing (acl) this (dobj) for (prep) their (poss) birds (compound) bike (pobj) or (cc) folding (conj) bike (dobj). thanks (ROOT)

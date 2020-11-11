@@ -1,0 +1,1 @@
+as (advmod) far (advmod) as (mark) know (advcl) the (det) stem (compound) posts (nsubj) and (cc) bars (conj) are (ROOT) interchangeable (acomp). someone (nsubj) correct (ROOT) me (dobj) if (mark) am (advcl) wrong (acomp). have (ROOT) new (amod) and (cc) older (conj) birdie (dobj)

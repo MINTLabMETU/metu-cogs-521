@@ -1,0 +1,1 @@
+like (ROOT) the (det) x (pobj) but (cc) also (advmod) like (conj) the (det) triple (nsubj) normally (advmod) ride (pobj) in (prep) the (det) middle (pobj) but (cc) its (poss) nice (nsubj) have (conj) the (det) gearing (compound) options (dobj) if (mark) you (nsubj) need (advcl) them (dobj) . (punct)

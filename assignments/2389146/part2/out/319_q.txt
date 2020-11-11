@@ -1,0 +1,1 @@
+with (mark) the (det) Bike (compound) Pocket (compound) Rocket (compound) Pro (nsubj) folding (nsubj) tends (ROOT) throw (xcomp) the (det) derailleurs (dobj) out (prep) of (prep) whack (pobj)

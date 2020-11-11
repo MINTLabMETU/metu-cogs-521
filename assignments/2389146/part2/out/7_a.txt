@@ -1,0 +1,1 @@
+adopt (nsubj) look (ROOT) your (poss) front (amod) wheel (dobj). look (ROOT) up (prt) the (det) road (pobj). do (aux) nt (neg) try (ROOT) rock (dobj) the (det) bike (compound) side (compound) side (npadvmod) until (mark) you (nsubj) know (advcl) what (dobj) you (nsubj) are (aux) doing (ccomp). relax (ROOT)

@@ -1,0 +1,1 @@
+so (advmod) riding (compound) bike (nsubj) that (nsubj) ca (aux) nt (neg) upgrade (relcl) is (aux) going (ROOT) answer (xcomp) all (predet) those (det) questions (npadvmod)

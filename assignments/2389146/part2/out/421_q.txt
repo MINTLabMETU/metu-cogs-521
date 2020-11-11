@@ -1,0 +1,1 @@
+barney (ROOT) Did (aux) you (nsubj) ever (advmod) resolve (ROOT) this (det) chain (compound) drop (compound) problem (dobj). have (ROOT) the (det) same (amod) issue (dobj) right (advmod) now (advmod). think (ROOT) my (poss) hairline (nsubj) is (ccomp) good (acomp). i (nsubj) m (ROOT) wondering (xcomp) if (punct) its (poss) loose (amod) chain (pobj)

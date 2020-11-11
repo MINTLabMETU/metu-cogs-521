@@ -1,0 +1,1 @@
+there (expl) will (ROOT) always (advmod) the (det) clueless (amod) ones (attr) who (nsubj) wo (aux) nt (neg) know (relcl) the (det) difference (dobj)

@@ -1,0 +1,1 @@
+third (amod) components (nsubj) listed (ROOT) the (det) PacificCycles (compound) site (dobj) vary (ccomp) from (prep) model (compound) model (pobj). the (det) disk (compound) brakes (nsubj) all (det) disk (compound) models (nsubj) appear (ROOT) mechanical (oprd) rather (advmod) than (cc) hydraulic (amod)

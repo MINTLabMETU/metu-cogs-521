@@ -1,0 +1,1 @@
+that (nsubj) s (ROOT) not (neg) mine (attr) but (cc) mine (nsubj) looks (conj) just (advmod) like (prep) it (pobj) . (punct)

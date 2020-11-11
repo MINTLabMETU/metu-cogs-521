@@ -1,0 +1,1 @@
+i (nsubj) guess (ROOT) I (nsubj) m (ccomp) only (advmod) few (amod) late (amod) posting (dobj) about (prep) nics (compound) burgeoning (amod) bracelets (compound) dixie (compound) mountain (compound) biking (compound) scene (pobj)

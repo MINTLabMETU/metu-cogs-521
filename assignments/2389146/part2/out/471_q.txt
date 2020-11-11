@@ -1,0 +1,1 @@
+this (nsubj) has (ROOT) me (nsubj) thinking (ccomp). simplify (ROOT). i (nsubj) m (ccomp) considering (dobj) actually (advmod) going (csubj) in (prep) the (det) complete (amod) opposite (amod) direction (pobj) and (cc) dropping (conj) my (poss) number (dobj) of (prep) gears (pobj) match (ROOT) the (det) purpose (dobj) of (prep) this (det) bike (pobj)

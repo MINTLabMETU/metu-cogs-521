@@ -1,0 +1,11 @@
+
+I noticed that the Dual Drive hub I got had a cassette/freewheel(?) with a much smaller range than the 8sp wheel it replaced, with closer ratios. So while there was still some ratio overlap, I came to appreciate the tighter ratios.
+
+I never tried a coaster brake, but I imagine it would be problematic on a number of fronts. 
+
+OLD of the hub -- usually coaster brake hubs are not as wide as standard hub sizes, although many, especially Sturmey-Archer hubs can be found in standard widths. 
+
+Chain line -- not sure how it would work out and less room to play with on a folder in order to make it work while maintaining full functionality of the fold. 
+
+Chain tension -- the variable chain tension with the suspension, not to mention folding nature of the bike does not lend itself well with a system like a coaster brake setup on which a fixed chain length is preferred. Although an adjustable strut to replace the the rear elastomer might elegantly solve the tension and variable length issues, it would complicate the fold process and you'd lose rear suspension, one of the nicer characteristics of the bike. Also, with a coaster brake, a chain tensioner or derailleur is out.
+					

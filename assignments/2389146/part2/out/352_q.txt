@@ -1,0 +1,1 @@
+careful (amod) studio (compound) photo (nsubj) means (ROOT) the (det) bike (nsubj) used (acl) had (aux) been (ccomp) ready (acomp) for (prep) some (det) time (pobj)

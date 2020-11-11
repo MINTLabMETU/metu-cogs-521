@@ -1,0 +1,1 @@
+it (nsubj) sound (ROOT) reasonable (amod) value (dobj) me (npadvmod) but (cc) come (conj) form (compound) UK (dobj) and (cc) do (aux) nt (neg) know (conj) the (det) value (dobj) of (prep) money (pobj) and (cc) goods (conj) in (prep) your (poss) country (pobj)

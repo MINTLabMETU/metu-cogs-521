@@ -1,0 +1,1 @@
+giant (ROOT) the (det) biggest (amod) bike (compound) manufacturer (dobj) in (prep) the (det) world (pobj) unless (mark) am (compound) mistaken (nsubj) has (aux) just (advmod) announced (advcl) no (neg) more (advmod) in (prep) their (poss) lineup (pobj). just (advmod) saying (ROOT)

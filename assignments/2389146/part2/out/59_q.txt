@@ -1,0 +1,1 @@
+what (ROOT) if (mark) all (nsubj) just (advmod) did (advcl) the (det) same (amod) thing (dobj) what (det) boring (amod) place (attr) this (det) world (nsubj) would (aux) be (relcl)

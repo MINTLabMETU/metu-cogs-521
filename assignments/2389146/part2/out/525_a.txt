@@ -1,0 +1,1 @@
+yea (nsubj) know (ROOT). but (cc) like (prep) richey (nsubj) stuff (compound) lot (pobj) so (ROOT) i (nsubj) m (aux) gon (ROOT) na (aux) go (xcomp) for (prep) that (det) think (parataxis) as (advmod) soon (advmod) as (mark) sell (advcl) my (poss) frame (dobj) and (cc) bunch (conj) of (prep) over (prep) stuff (pobj) found (ROOT) laying (xcomp) around (advmod)

@@ -1,0 +1,1 @@
+hi (intj) everyone (nsubj) please (intj) advise (ROOT) me (dobj) what (dobj) crank (nsubj) set (csubj) and (cc) bottom (conj) bracket (conj) from (prep) shaman (pobj) or (cc) SRAM (conj) is (ccomp) compatible (amod) birds (attr) alive (amod) Speed (dobj). thanks (ROOT)

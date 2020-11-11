@@ -1,0 +1,1 @@
+well (intj) son (ROOT) of (prep) gun (pobj). i (nsubj) m (nmod) guessing (amod) mine (nsubj) are (ROOT) tubes (attr) as (advmod) well (advmod). ill (nsubj) just (advmod) run (ROOT) them (dobj) that (det) way (npadvmod) for (prep) while (mark) guess (pcomp) based (acl) upon (prep) your (poss) nightmare (pobj)

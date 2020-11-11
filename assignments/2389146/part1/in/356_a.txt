@@ -1,0 +1,5 @@
+
+Titanium isn't generally used for big stuff like the airframe or skin...at least on no plane I ever worked on.  (Back in the day, it was all aluminum.)  TI is typically used for higher temp applications, eg, jet engine exhaust flow control, where individual parts aren't large. 
+
+ (TI is used more extensively in the SR-71, which had friction heated wings at mach 3 speeds.  Many assemblies were loose at room temperature cuz operating dimensions were only achieved at much higher in-flight temps.  But one can make big things with rivets, which can make very strong assemblies.  And gas shielded welding works better with simply shaped parts.)
+					

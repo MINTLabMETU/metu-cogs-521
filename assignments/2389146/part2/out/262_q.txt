@@ -1,0 +1,1 @@
+paul (nsubj) can (aux) you (nsubj) post (ROOT) picture (dobj) of (prep) the (det) folded (amod) swift (pobj) with (prep) the (det) rack (pobj) attached (acl). how (advmod) far (advmod) does (aux) the (det) rack (compound) extend (ROOT) of (prep) the (det) back (pobj) of (prep) the (det) bike (pobj). thanks (ROOT)

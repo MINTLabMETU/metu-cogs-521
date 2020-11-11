@@ -1,0 +1,1 @@
+running (csubj) Windows (compound) Pro (dobj) but (cc) managed (amod) use (compound) causee (conj) reside (ROOT) the (det) images (dobj) hope (ccomp) they (nsubj) come (ccomp) up (prt) OK (advmod). if (mark) there (expl) is (ROOT) anything (attr) specific (amod) you (nsubj) like (intj) see (relcl) pic (nsubj) of (prep) let (ccomp) me (nsubj) know (ccomp)

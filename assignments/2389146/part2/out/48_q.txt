@@ -1,0 +1,1 @@
+do (aux) traditional (amod) fixed (amod) gear (compound) road (compound) bike (nsubj) got (ROOT) in (prep) hours (pobj) today (npadvmod). bandeira (ROOT)

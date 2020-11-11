@@ -1,0 +1,1 @@
+this (det) thread (ROOT). this (det) thread (nsubj) is (ROOT) only (advmod) months (npadvmod) younger (acomp) than (mark) am (advcl). this (nsubj) is (ROOT) both (preconj) inspiring (acomp) and (cc) slightly (advmod) terrifying (conj)

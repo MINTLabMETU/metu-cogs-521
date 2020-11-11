@@ -1,0 +1,1 @@
+speed (ROOT) This (nsubj) might (aux) give (ccomp) you (dative) some (det) ideas (dobj)

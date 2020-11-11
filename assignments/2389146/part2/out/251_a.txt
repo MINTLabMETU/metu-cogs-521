@@ -1,0 +1,1 @@
+guess (ROOT) this (nsubj) is (ccomp) kind (advmod) of (advmod) old (acomp) but (cc) did (aux) you (nsubj) ever (advmod) hear (conj) back (advmod) from (prep) Paul (pobj) re (ROOT) whether (mark) monoliths (nsubj) can (aux) replace (pcomp) narrowest (amod) santis (dobj)

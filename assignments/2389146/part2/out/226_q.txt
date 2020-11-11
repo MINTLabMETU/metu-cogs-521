@@ -1,0 +1,1 @@
+ok (intj) what (nsubj) s (ROOT) type (attr) one (npadvmod). and (cc) what (nsubj) s (ROOT) type (attr)

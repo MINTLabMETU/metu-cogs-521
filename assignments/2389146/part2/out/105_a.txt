@@ -1,0 +1,1 @@
+digs (nsubj) up (prt) year (npadvmod) old (amod) post (dobj) offer (ROOT) this (det) scintillating (amod) comment (dobj). would (aux) interested (ROOT) in (prep) understanding (pcomp) the (det) thought (compound) process (dobj) behind (prep) that (det) one (pobj)

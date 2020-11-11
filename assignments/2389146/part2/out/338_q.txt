@@ -1,0 +1,1 @@
+lest (mark) am (auxpass) mistaken (ROOT) the (det) webster (compound) pictures (nsubj) are (ccomp) of (prep) the (det) test (compound) bike (pobj) from (prep) now (pcomp) on (pcomp)

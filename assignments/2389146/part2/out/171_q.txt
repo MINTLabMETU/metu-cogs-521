@@ -1,0 +1,1 @@
+learn (ROOT) something (dobj) new (amod) every (det) time (npadvmod) read (advcl) this (det) forum (dobj)

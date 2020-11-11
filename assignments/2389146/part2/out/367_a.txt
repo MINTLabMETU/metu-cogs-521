@@ -1,0 +1,1 @@
+the (det) quote (nsubj) is (ROOT) about (prep) thread (nsubj) being (pcomp) weird (acomp) not (neg) company (acomp). but (cc) thanks (ROOT) for (prep) playing (pcomp)

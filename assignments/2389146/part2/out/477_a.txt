@@ -1,0 +1,1 @@
+have (aux) got (ROOT) spare (amod) set (dobj). but (cc) as (mark) you (nsubj) know (advcl) they (nsubj) are (ccomp) hard (advmod) get (ROOT) hold (dobj) of (prep). not (neg) letting (ROOT) go (xcomp) of (prep) them (pobj). got (ROOT) mine (compound) bay (dobj) worldwide (advmod)

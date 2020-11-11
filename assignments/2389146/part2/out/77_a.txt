@@ -1,0 +1,1 @@
+now (advmod) those (nsubj) look (ROOT) like (prep) some (det) nice (amod) all (det) rounders (pobj)

@@ -1,0 +1,1 @@
+unfortunately (advmod) my (poss) bb (nsubj) is (ROOT) there (advmod) so (advmod) strong (acomp) that (nsubj) ca (aux) nt (neg) get (ccomp) it (dobj) out (prt) gon (ROOT) na (aux) have (xcomp) the (det) shop (nsubj) do (ccomp) it (dobj) with (prep) their (poss) pneumatic (amod) tools (pobj). bucks (ROOT) but (cc) totally (advmod) worth (conj) it (dobj) . (punct)

@@ -1,0 +1,1 @@
+just (advmod) kinda (nsubj) wanted (ROOT) get (auxpass) involved (xcomp) in (prep) this (det) thread (pobj). and (cc) do (aux) nt (neg) think (ROOT) I (nsubj) ve (aux) ever (advmod) posted (ccomp) in (prep) the (det) man (pobj). forum (ROOT)

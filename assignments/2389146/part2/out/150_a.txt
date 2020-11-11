@@ -1,0 +1,1 @@
+yes (ROOT). do (aux) nt (neg) think (ROOT) so (advmod)

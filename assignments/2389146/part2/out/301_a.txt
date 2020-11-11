@@ -1,0 +1,1 @@
+sent (ROOT) email (dobj) with (prep) this (det) question (pobj) my (poss) friend (dobj) door (npadvmod). should (aux) get (ROOT) answer (dobj) for (prep) you (pobj) shortly (advmod)

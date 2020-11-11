@@ -1,0 +1,1 @@
+did (aux) he (nsubj) ever (advmod) say (ROOT) how (advmod) tall (acomp) his (poss) wife (nsubj) was (ccomp)

@@ -1,0 +1,1 @@
+sigh (ROOT). bike (nsubj) defeats (ROOT) the (det) purpose (dobj) of (prep) peddling (pobj)

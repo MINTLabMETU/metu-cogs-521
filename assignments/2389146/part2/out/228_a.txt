@@ -1,0 +1,1 @@
+what (dobj) ARE (aux) YOU (nsubj) DOING (ROOT) THAT (det) pander (nsubj) MAKE (ccomp) IT (nsubj) TITS (ccomp). also (advmod) making (ROOT) your (poss) own (amod) pannier (nsubj) is (ccomp) way (npadvmod) less (advmod) delicious (acomp)

@@ -1,0 +1,1 @@
+welcome (ROOT) the (det) Mountain (compound) forum (dobj). gang (nsubj) this (dobj) is (ROOT) ayr (attr) he (nsubj) just (advmod) arrived (ROOT) here (advmod) from (prep) the (det) year (pobj) please (intj) welcome (advcl) him (dobj) and (cc) and (cc) help (conj) him (dobj) get (auxpass) acquainted (ccomp)

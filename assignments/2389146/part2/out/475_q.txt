@@ -1,0 +1,1 @@
+or (cc) is (ROOT) there (expl) some (det) way (npadvmod) get (advcl) it (nsubj) within (ccomp) by (prep) partial (pobj) disassembly (advmod) beyond (prep) normal (amod) folding (pobj)

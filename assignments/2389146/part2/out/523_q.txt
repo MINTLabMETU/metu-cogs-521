@@ -1,0 +1,1 @@
+thought (ROOT) the (det) cane (compound) creeks (nsubj) were (ccomp) rebuildable (acomp). mean (ROOT) the (det) uses (amod) cartridge (compound) bearings (dobj) there (expl) s (relcl) no (det) reason (attr) you (nsubj) ca (aux) nt (neg) replace (relcl) those (dobj)

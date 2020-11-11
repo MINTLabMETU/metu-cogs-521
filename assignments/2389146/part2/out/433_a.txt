@@ -1,0 +1,1 @@
+the (det) NS (nsubj) is (ROOT) our (poss) lightweight (amod) model (attr) hence (advmod) use (advcl) our (poss) lightest (amod) frame (dobj) with (prep) the (det) lightest (amod) fork (pobj). thanks (ROOT) Yan (npadvmod)

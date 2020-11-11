@@ -1,0 +1,1 @@
+like (ROOT) it (pobj). it (nsubj) does (aux) look (ROOT) aerodynamic (acomp) but (cc) it (nsubj) does (aux) look (ROOT) like (mark) it (nsubj) has (advcl) plenty (dobj) of (prep) room (pobj) and (cc) is (conj) very (advmod) functional (acomp)

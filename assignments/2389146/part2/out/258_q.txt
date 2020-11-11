@@ -1,0 +1,1 @@
+any (det) idea (ROOT) where (advmod) could (aux) buy (relcl) Swift (dobj) outside (prep) the (det) Europe (pobj) or (cc) Asia (conj). eric (ROOT)

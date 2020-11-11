@@ -1,0 +1,1 @@
+will (aux) they (nsubj) ever (advmod) make (ROOT) comeback (dobj) or (cc) are (conj) they (nsubj) ancient (amod) history (attr)

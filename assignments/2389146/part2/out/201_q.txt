@@ -1,0 +1,1 @@
+what (nsubj) s (csubj) old (acomp) is (ROOT) new (acomp) again (advmod). i (nsubj) ve (aux) got (ROOT) Yeti (dobj) which (nsubj) used (relcl) the (det) same (amod) single (amod) - (punct) pilot (compound) carbon (compound) flex (compound) seat (dobj) stay (compound) approach (dobj) . (punct)

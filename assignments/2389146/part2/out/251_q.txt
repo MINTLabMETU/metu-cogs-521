@@ -1,0 +1,1 @@
+i (nsubj) m (ROOT) going (amod) contact (dobj) Paul (dobj). these (nsubj) and (cc) the (det) touring (compound) cantilever (conj) look (ROOT) promising (xcomp)

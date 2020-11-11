@@ -1,0 +1,1 @@
+think (ROOT) gripe (nsubj) is (ccomp) bit (attr) of (prep) overstatement (pobj). more (ROOT) of (prep) observation (pobj)

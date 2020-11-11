@@ -1,0 +1,13 @@
+
+						
+						What is worth mentioning regarding that case:
+- The bike in question was a Tern Cargo Node - a cargobike, basically consisting of a Tern Node Frame (thier 24" bike) with a factory fitted xtracycle rear frame cargo extension. I do not know if the frame of the cargo node is different or stiffened in compariston to an ordinary Tern Link frame though optically identical for the innocent watcher.
+- The poster says he had no heavy load on the bike at the time of the accident - just himself (at 165 lbs) and a laptop
+- he had fitted an electric motor to the bike. A Bafang BBSHD mid-drive motor at the bottom bracket. The BBSH is rated at 1000 Watts. Tern themselves do sell the cargo node with an electric mid-drive motor, but only one with 250 Watts.
+
+The force of that retrofitted motor is clearly far higher than what Tern offer themselves, so basically he used the bike outside the specification.
+The poster himself writes in said r-e-d-d-i-t (seems on is not even allowed to post the  ****** here ) thread: - He posted more pictures of the break at imgur: 
+- As usual we do not know if the breakage developed over time or happened completely all of a sudeen, maybe starting secretly at the underside of the frame.
+
+So while it is the same well-known area where the bike broke it seems maybe a bit questionable in this case to simply claim it was Tern who still are unable to weld. With the extra force of that extremely powerful motor the bike was used far out for what it was designed, specified, rated and tested. Luckily the rider did not suffer injuries. Maybe a sign of warning to people to put the most powerful motors on any given bike w/o knowing the limits or paying respect or attention to the forces that the frame will have to deal with. Just because things fit mechanically it does not mean it is a good idea or a valid combination.
+					

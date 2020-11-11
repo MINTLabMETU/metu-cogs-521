@@ -1,0 +1,1 @@
+yes (intj) the (det) frame (nsubjpass) is (auxpass) broken (ROOT) in (prep) half (pobj). in (ROOT) exactly (advmod) the (det) same (amod) place (pobj) as (mark) seen (advcl) in (prep) post (compound) number (pobj) . (punct)

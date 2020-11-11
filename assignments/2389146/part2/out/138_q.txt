@@ -1,0 +1,1 @@
+have (aux) admit (ROOT) that (nsubj) have (aux) been (ccomp) scared (acomp) off (prep) of (prep) the (det) whole (amod) question (pobj)

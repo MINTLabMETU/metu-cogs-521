@@ -1,0 +1,1 @@
+laugh (ROOT) all (predet) those (det) people (nsubj) bicycles (ccomp) thinking (xcomp) there (advmod) even (advmod) getting (advcl) work (dobj) out (prt)

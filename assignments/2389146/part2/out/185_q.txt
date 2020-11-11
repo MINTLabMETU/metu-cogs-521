@@ -1,0 +1,1 @@
+the (det) bike (compound) stores (nsubj) around (prep) me (pobj) right (advmod) now (advmod) have (ROOT) more (advmod) medium (amod) tires (dobj) in (prep) stock (pobj) than (mark) they (nsubj) do (advcl) plus (punct)

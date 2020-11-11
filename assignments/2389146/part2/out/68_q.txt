@@ -1,0 +1,1 @@
+bit (ROOT) of (prep) slight (pobj) of (prep) hand (pobj) smashing (acl) together (advmod) mountain (compound) bikes (dobj) and (cc) hybrids (conj). can (aux) see (advcl) person (nsubj) going (ccomp) with (prep) hybrid (pobj) as (mark) do (aux) it (nsubj) all (appos) bike (ROOT) though (mark) personally (advmod) prefer (advcl) drop (compound) bars (dobj)

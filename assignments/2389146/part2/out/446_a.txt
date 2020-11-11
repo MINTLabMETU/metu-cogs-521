@@ -1,0 +1,1 @@
+also (advmod) saw (ROOT) fender (dobj) that (nsubj) was (relcl) only (advmod) once (advmod). someone (nsubj) took (ROOT) water (compound) bottle (nsubj) cut (ccomp) it (dobj) in (prep) half (pobj) and (cc) used (conj) some (det) nineties (dobj). done (ROOT)

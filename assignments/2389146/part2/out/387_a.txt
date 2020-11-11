@@ -1,0 +1,1 @@
+interesting (amod) bike (ROOT). do (aux) you (nsubj) also (advmod) have (ROOT) pictures (dobj) of (prep) how (advmod) it (nsubj) folds (pcomp)

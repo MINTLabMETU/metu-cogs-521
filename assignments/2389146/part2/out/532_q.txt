@@ -1,0 +1,1 @@
+and (cc) the (det) best (nsubj) of (prep) all (predet) the (pobj) do (aux) nt (neg) sound (ROOT) like (prep) chain (pobj) saw (ROOT) that (nsubj) scares (ccomp) away (advmod) other (amod) folks (dobj) the (det) trails (dobj)

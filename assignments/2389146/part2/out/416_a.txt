@@ -1,0 +1,1 @@
+wow (intj) you (nsubj) have (ROOT) VI (dobj). soon (advmod) cool (advmod) have (ROOT) one (dobj) left (acl). the (det) swap (nsubj) will (aux) work (ROOT) however (advmod) it (nsubj) will (aux) make (advcl) the (det) mini (advmod) heavy (amod) and (cc) clumsy (conj) fold (dobj). like (ROOT) the (det) above (amod) solution (pobj) better (advmod). thanks (ROOT) Yan (npadvmod)

@@ -1,0 +1,1 @@
+us (nsubj) is (ROOT) Singapore (compound) price (attr)

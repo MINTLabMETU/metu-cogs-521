@@ -1,0 +1,1 @@
+post (compound) pictures (ROOT) please (punct). can (aux) you (nsubj) figure (ROOT) out (prt) the (det) manufacturing (compound) date (dobj) of (prep) your (poss) section (pobj). seems (ROOT) like (mark) the (det) section (compound) hinge (nsubjpass) was (auxpass) updated (oprd)

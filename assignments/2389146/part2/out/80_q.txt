@@ -1,0 +1,1 @@
+but (cc) for (prep) the (det) average (amod) Joe (pobj) who (nsubj) just (advmod) noodles (relcl) around (prep) smooth (amod) gravel (compound) roads (compound) mountain (compound) bike (pobj) is (ROOT) waste (attr)

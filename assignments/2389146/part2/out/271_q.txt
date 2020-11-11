@@ -1,0 +1,1 @@
+by (prep) the (det) way (pobj) James (nsubj) love (relcl) your (poss) bike (nsubj) was (aux) thinking (relcl) of (prep) getting (aux) bullhorn (pcomp) myself (dobj) with (prep) super (advmod) tiny (amod) BMX (compound) style (compound) brake (compound) levers (pobj) save (ROOT) room (dobj) the (det) bars (dobj)

@@ -1,0 +1,1 @@
+is (ROOT) that (nsubj) so (advmod). that (nsubj) explains (ROOT) lot (dobj) of (prep) things (pobj). the (det) trouble (ROOT) with (prep) couple (nummod) more (amod) turns (pobj) of (prep) the (det) QR (pobj) it (nsubj) makes (relcl) folding (compound) bit (npadvmod) stiffer (ccomp)

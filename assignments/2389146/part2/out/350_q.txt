@@ -1,0 +1,1 @@
+well (intj) lets (nsubj) see (ROOT) if (mark) get (advcl) actual (amod) titanium (compound) folding (compound) bike (dobj) for (prep) less (pobj) than (prep) first (pcomp)

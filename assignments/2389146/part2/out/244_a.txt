@@ -1,0 +1,1 @@
+zombie (compound) thread (nsubj) still (advmod) hydro (ROOT) or (cc) much (amod) disc (conj) but (cc) my (poss) fat (amod) bike (conj)

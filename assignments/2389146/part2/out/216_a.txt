@@ -1,0 +1,1 @@
+i (nsubj) ve (aux) heard (ROOT) those (det) striders (nsubj) are (ccomp) the (det) best (amod) way (attr) teach (ccomp) kids (dobj) ride (dep)

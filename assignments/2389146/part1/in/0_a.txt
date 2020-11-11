@@ -1,0 +1,3 @@
+
+In both left and right, the smaller shifter gets the chain to a smaller gear, and the bigger one to a larger gear. The effective meaning is that to upshift the front, you need to tap the larger shifter. To upshift the rear, you use the smaller shifter. If the front gear remains the same, a  rear gear achieves a higher gear ratio ("upshift"). If the rear remains the same, a  front does it.
+					

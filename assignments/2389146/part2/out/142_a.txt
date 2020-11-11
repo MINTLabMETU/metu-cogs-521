@@ -1,0 +1,1 @@
+not (neg) according (ROOT) the (det) posts (pobj) above (prep) which (nsubj) says (relcl) that (mark) Tern (nsubj) subcontract (ccomp) the (det) production (compound) third (compound) party (compound) factories (dobj) so (advmod) Tern (nsubj) does (aux) make (ROOT) frames (dobj)

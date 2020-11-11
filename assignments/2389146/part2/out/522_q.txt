@@ -1,0 +1,1 @@
+pensioner (nsubj) is (ROOT) not (neg) big (amod) problem (compound) cause (nsubj) exist (advcl) the (det) nexus (compound) birds (dobj) and (cc) could (aux) adapted (conj)

@@ -1,0 +1,1 @@
+triggered (ROOT) much (advmod). do (aux) nt (neg) bitter (ROOT) just (advmod) cause (mark) you (nsubj) did (aux) n't (neg) reorder (advcl) one (dobj). you (nsubj) should (aux) have (aux) played (ROOT)

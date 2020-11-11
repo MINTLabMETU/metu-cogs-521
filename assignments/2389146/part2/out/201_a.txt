@@ -1,0 +1,1 @@
+that (mark) Horst (compound) link (nsubj) was (ROOT) always (advmod) nice (acomp) and (cc) squishy (conj) but (cc) always (advmod) sucked (conj) for (prep) climbing (pcomp). too (advmod) much (amod) pedal (compound) bob (ROOT)

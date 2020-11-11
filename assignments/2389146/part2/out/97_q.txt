@@ -1,0 +1,1 @@
+i (nsubj) ve (aux) always (advmod) said (ROOT) that (mark) going (csubj) mph (compound) flatlands (dobj) is (ccomp) like (prep) sitting (pcomp) the (det) couch (dobj)

@@ -1,0 +1,1 @@
+yes (cc) most (amod) compact (amod) cranks (nsubj) and (cc) front (amod) derailleurs (conj) can (aux) accommodate (ROOT) range (dobj) of (prep) ring (compound) sizes (pobj). just (advmod) check (ROOT) with (prep) your (poss) local (amod) LBS (pobj) . (punct)

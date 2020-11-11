@@ -1,0 +1,1 @@
+could (ROOT) nt (punct). i (nsubj) ve (aux) used (ROOT) that (det) motor (dobj) and (cc) its (poss) monster (conj) that (det) frame (nsubj) is (ccomp) no (det) match (attr) for (prep) the (det) power (pobj) your (nsubj) dumping (relcl) through (prep) it (pobj) . (punct)

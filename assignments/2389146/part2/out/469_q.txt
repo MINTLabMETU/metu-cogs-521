@@ -1,0 +1,1 @@
+you (nsubj) got (ROOT) nice (amod) and (cc) clean (conj) birds (compound) desastar (dobj) . (punct)

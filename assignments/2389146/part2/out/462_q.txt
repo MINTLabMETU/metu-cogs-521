@@ -1,0 +1,1 @@
+looks (ROOT) like (mark) your (poss) bike (nsubj) is (aux) missing (advcl) the (det) rolling (amod) rack (compound) wheel (compound) set (dobj). these (nsubj) can (aux) replaced (ROOT) with (prep) anything (pobj) that (nsubj) fits (relcl). ie (compound) rollerblade (compound) wheels (ROOT) bearing (acl) and (cc) smaller (amod) axle (conj) and (cc) bolt (conj)

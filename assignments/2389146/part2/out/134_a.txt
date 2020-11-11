@@ -1,0 +1,1 @@
+wow.im (aux) glad (ROOT) your (poss) ok (dobj) as (advmod) well (advmod). i (nsubj) m (ROOT) so (advmod) tired (acomp) of (prep) seeing (pcomp) so (advmod) many (amod) broken (amod) tern (compound) frames (dobj)

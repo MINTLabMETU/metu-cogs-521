@@ -1,0 +1,1 @@
+do (aux) they (nsubj) have (ROOT) all (predet) the (det) parts (nsubj) fireplace (ccomp) parts (dobj) for (prep) birds (pobj) or (cc) is (conj) it (nsubj) hard (advmod) find (acomp). do (aux) they (nsubj) have (ROOT) the (det) latest (amod) models (dobj)

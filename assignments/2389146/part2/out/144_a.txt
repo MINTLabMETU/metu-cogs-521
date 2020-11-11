@@ -1,0 +1,1 @@
+wrong.this (nsubj) is (ROOT) what (nsubj) happens (ccomp) when (advmod) person (nsubj) does (aux) get (advcl) lawyer (dobj). thanks (ROOT) for (prep) joining (pcomp) and (cc) commenting (conj) the (det) fly (dobj)

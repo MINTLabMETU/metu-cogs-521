@@ -1,0 +1,1 @@
+hi (intj) BikerGuy (nsubj) have (aux) turned (ROOT) your (poss) post (dobj) into (prep) new (amod) thread (pobj). you (nsubj) can (aux) find (ROOT) it (dobj) here (advmod) in (prep) the (det) Road (compound) Cycling (compound) forum (pobj)
