@@ -1,0 +1,1 @@
+just (advmod) make (ROOT) sure (ccomp) you (nsubj) get (ccomp) one (dobj) with (prep) working (amod) bottom (amod) bracket (pobj). oh (intj) you (nsubj) said (ROOT) few (amod) limbs (dobj). guess (ROOT) you (nsubj) already (advmod) know (ccomp)

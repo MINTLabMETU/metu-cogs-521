@@ -1,0 +1,1 @@
+if (mark) it (nsubj) falls (ROOT) off (prt) till (prep) good (amod) opportunity (compound) practice (pobj) one (npadvmod) - (punct) legged (amod) spinning (pobj)

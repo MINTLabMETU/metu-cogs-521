@@ -1,0 +1,1 @@
+am (ROOT) no (det) overextension (attr) for (prep) the (det) arms (pobj). very (advmod) comfortable (ROOT) and (cc) feels (conj) like (prep) full (amod) big (amod) bike (pobj). the (det) birds (nsubj) is (ROOT) ideal (acomp) for (prep) upwards (pobj) and (cc) besides (prep) the (det) birds (nsubj) stem (csubj) is (conj) height (advmod) adjustable (acomp)

@@ -1,0 +1,1 @@
+like (intj) add (ROOT) front (amod) depailler (dobj) the (det) Brompton (appos) and (cc) thus (advmod) need (conj) ring (dobj) attach (ROOT) it (dobj) the (det) frame (oprd). the (det) seat (nsubj) tube (ROOT) the (det) Brompton (nsubj) is (ccomp) mm (attr)

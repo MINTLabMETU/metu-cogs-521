@@ -1,0 +1,1 @@
+think (ROOT) was (auxpass) mistaken (ccomp) in (prep) what (det) type (nsubjpass) of (prep) rider (pobj) was (aux) being (auxpass) referred (pcomp) here (advmod)

@@ -1,0 +1,1 @@
+peter (nsubj) says (ROOT) hi (intj) by (prep) the (det) way (pobj)

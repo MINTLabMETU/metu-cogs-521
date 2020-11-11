@@ -1,0 +1,1 @@
+i (nsubj) m (ROOT) fairly (advmod) sure (advmod) any (det) road (compound) bike (nsubj) cranks (ccomp) BB (nsubj) will (aux) do (ROOT) the (det) job (dobj)

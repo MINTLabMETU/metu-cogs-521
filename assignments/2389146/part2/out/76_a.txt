@@ -1,0 +1,1 @@
+fat (amod) thin (amod) young (amod) old (ROOT). it (nsubj) does (aux) matter (ROOT). if (mark) you (nsubj) get (advcl) out (prt) and (cc) ride (conj) you (nsubj) are (ROOT) cyclists (attr)

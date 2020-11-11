@@ -1,0 +1,1 @@
+trust (ROOT) me (dobj) . (punct)

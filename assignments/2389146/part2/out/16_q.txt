@@ -1,0 +1,1 @@
+hello (intj) all (nsubj) am (aux) looking (ROOT) get (xcomp) my (poss) first (amod) road (compound) bicycle (dobj). just (advmod) wondering (ROOT) what (nsubj) has (aux) changed (ccomp) from (prep) Now (pcomp) if (mark) you (nsubjpass) were (auxpass) compare (advcl) the (det) same (amod) bike (compound) model (dobj). would (aux) notice (ROOT) the (det) difference (dobj)

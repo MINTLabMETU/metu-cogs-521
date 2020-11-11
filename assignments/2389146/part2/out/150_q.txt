@@ -1,0 +1,1 @@
+is (ROOT) it (nsubj) possible (acomp) use (dep) wheel (dobj) set (acl) with (prep) mm (pobj) rear (amod) spacing (npadvmod) in (prep) frame (pobj) with (prep) mm (pobj) or (cc) mm (conj) spacing (advcl) are (ROOT) there (expl) any (det) adapters (attr) that (nsubj) make (relcl) this (nsubj) possible (ccomp) . (punct)

@@ -1,0 +1,1 @@
+for (ROOT) now (pcomp). they (nsubj) will (aux) phased (ROOT) out (prt) over (prep) the (det) next (amod) years (pobj). much (advmod) like (intj) rim (compound) brakes (nsubj) are (aux) starting (ROOT) slowly (advmod) disappear (amod) road (compound) bikes (dobj). all (nsubj) going (ROOT) disc (dobj) now (advmod) because (mark) disc (nsubj) is (advcl) superior (acomp)

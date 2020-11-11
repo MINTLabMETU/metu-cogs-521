@@ -1,0 +1,1 @@
+is (ROOT) this (nsubj) in (prep) response (pobj) the (det) question (attr) about (prep) converting (pcomp) Boost (dobj). if (mark) so (advmod) those (nsubj) are (ROOT) not (neg) for (prep) that (det) purpose (pobj). as (mark) am (aux) reading (advcl) it (dobj) those (nsubj) are (ROOT) for (prep) converting (pcomp) x (dep) x (punct) boost (punct)

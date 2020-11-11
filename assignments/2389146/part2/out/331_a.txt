@@ -1,0 +1,1 @@
+actually (advmod) expect (ROOT) they (nsubj) throw (ccomp) in (prt) the (det) Ti (compound) post (dobj) for (prep) recorders (pobj) too (advmod). i (nsubj) m (ROOT) just (advmod) about (advmod) ready (amod) pull (xcomp) out (prep) of (prep) this (pobj) and (cc) give (conj) my (poss) soul (dobj) and (cc) few (amod) limbs (compound) brompton (ROOT)

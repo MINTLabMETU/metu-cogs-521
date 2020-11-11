@@ -1,0 +1,1 @@
+call (compound) ers (ROOT) ancient (amod) history (nsubj) is (ROOT) ridiculous (acomp). they (nsubj) are (ROOT) history (attr)

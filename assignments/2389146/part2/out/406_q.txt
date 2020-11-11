@@ -1,0 +1,1 @@
+my (poss) left (amod) crank (compound) arm (nsubj) almost (advmod) came (ROOT) off (prt) this (det) morning (npadvmod) and (cc) that (nsubj) s (conj) with (prep) the (det) locative (pobj). hope (ROOT) my (poss) new (amod) crank (nsubj) and (cc) BB (conj) get (ccomp) here (advmod) soon (advmod) its (poss) going (amod) interesting (amod) ride (dobj) home (advmod)

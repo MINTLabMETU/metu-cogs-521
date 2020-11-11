@@ -1,0 +1,1 @@
+i (nsubj) m (dep) very (advmod) tempted (ROOT). just (advmod) have (aux) get (ROOT) the (det) cash (nsubj) got (ccomp) ta (aux) sell (xcomp) off (prt) my (poss) current (amod) frame (dobj) before (mark) anything (nsubj) goes (advcl). currently (advmod) its (poss) bay (ROOT) for (prep) bucks (pobj)

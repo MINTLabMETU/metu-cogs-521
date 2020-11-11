@@ -1,0 +1,1 @@
+do (aux) nt (neg) know (advcl) much (dobj) about (prep) bikes (pobj) but (cc) lowering (conj) the (det) stem (dobj) height (nsubj) will (aux) make (ROOT) it (nsubj) move (ccomp) closer (amod) me (dobj) . (punct)

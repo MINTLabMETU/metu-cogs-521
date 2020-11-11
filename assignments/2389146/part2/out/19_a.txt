@@ -1,0 +1,1 @@
+the (det) Roubaix (nsubj) is (ROOT) also (advmod) much (amod) superior (amod) frame (attr) compared (acl) sportif (dobj). it (nsubj) uses (ROOT) their (poss) aluminum (dobj) compared (prep) the (det) much (advmod) heavier (amod) frame (pobj) of (prep) the (det) sportif (pobj)

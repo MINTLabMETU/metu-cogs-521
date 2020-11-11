@@ -1,0 +1,1 @@
+not (neg) folding (ROOT) separable (dobj). all (det) Sevens (nsubj) are (ROOT) hand (npadvmod) - (punct) built (acomp) in (prep) the (det) USA (pobj) . (punct)

@@ -1,0 +1,1 @@
+my (poss) Brompton (ROOT). no (ROOT). circa (ROOT). bought (ROOT) it (dobj) before (mark) they (nsubj) came (advcl) with (prep) latches (pobj) keep (advcl) the (det) rear (amod) triangle (dobj) from (prep) swinging (pcomp) freely (advmod)

@@ -1,0 +1,1 @@
+elevate (compound) post (compound) count (compound) spam (compound) bb (ROOT). it (nsubj) is (ROOT) common (amod) technique (attr). am (ROOT) not (neg) sure (acomp) why (advmod) necropolis (nsubjpass) are (auxpass) targeted (advcl)

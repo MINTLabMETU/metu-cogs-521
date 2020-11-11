@@ -1,0 +1,1 @@
+quoting (ROOT) Sheldon (dobj) this (det) one (npadvmod). just (advmod) found (ROOT) this (det) the (det) AC (compound) Claws (nsubj) freewheel (ccomp) So (advmod) what (dobj) does (aux) small (amod) thread (nsubj) mean (ROOT). it (nsubj) says (ROOT) for (prep) flip (compound) - (punct) flop (compound) hubs (pobj) so (mark) it (nsubj) should (aux) good (ROOT) right (advmod)

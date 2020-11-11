@@ -1,0 +1,1 @@
+indeed (ROOT). why (advmod) do (aux) nt (neg) you (nsubj) put (ROOT) it (dobj) across (prt) in (prep) more (amod) concise (compound) manner (pobj)

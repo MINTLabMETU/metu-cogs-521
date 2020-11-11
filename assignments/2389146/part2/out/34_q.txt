@@ -1,0 +1,1 @@
+welcome (compound) BF (ROOT). where (advmod) do (aux) you (nsubj) ride (ROOT)

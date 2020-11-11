@@ -1,0 +1,1 @@
+i (nsubj) m (aux) actually (advmod) thinking (ROOT) of (prep) something (pobj) similar (amod) in (prep) that (pobj) I (nsubj) m (ROOT) surprised (ROOT) that (mark) there (expl) int (ccomp) foldingbikeforums.net (dobj) and (cc) foldingbikegallery.com (conj) . (punct)

@@ -1,0 +1,1 @@
+but (cc) the (det) odds (nsubj) look (ROOT) good (amod) me (dobj) . (punct)

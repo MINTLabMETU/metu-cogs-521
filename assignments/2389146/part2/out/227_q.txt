@@ -1,0 +1,1 @@
+like (ROOT) Greek (amod) food (pobj). kill (ROOT) for (prep) some (det) nagasaki (pobj) right (advmod) now (advmod). whoever (nsubj) came (csubj) up (prt) with (prep) flaming (amod) cheese (pobj) was (ROOT) way (npadvmod) more (attr) of (prep) genius (pobj) than (prep) those (det) stupid (amod) lever (compound) guys (pobj)

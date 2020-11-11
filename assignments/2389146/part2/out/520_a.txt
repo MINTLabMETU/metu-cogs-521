@@ -1,0 +1,1 @@
+doubt (ROOT) its (poss) possible (amod) retro (amod) fit (compound) belt (compound) drive (nsubj) system (ccomp) the (det) birds (dobj) as (mark) I (nsubj) m (advcl) sure (acomp) it (nsubj) needs (ccomp) auxiliary (amod) pensioner (dobj) cope (ROOT) with (prep) the (det) requirements (pobj) of (prep) the (det) folding (compound) process (pobj)

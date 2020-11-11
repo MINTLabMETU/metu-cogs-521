@@ -1,0 +1,1 @@
+no (ROOT). not (neg) correct (ROOT). the (det) faster (advmod) you (nsubj) go (ROOT) the (advmod) harder (advmod) you (nsubj) work (relcl)

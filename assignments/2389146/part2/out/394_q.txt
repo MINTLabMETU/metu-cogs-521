@@ -1,0 +1,1 @@
+yes (intj) that (nsubj) s (ROOT) the (det) typical (amod) issue (attr) with (prep) choosing (pcomp) . (punct)

@@ -1,0 +1,1 @@
+is (ROOT) definitely (advmod) much (advmod) faster (acomp) but (cc) paint (nsubj) racing (acl) for (prep) money (pobj) is (conj) still (advmod) fun (acomp) for (dative) me (pobj)

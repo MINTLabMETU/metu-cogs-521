@@ -1,0 +1,1 @@
+why (advmod) would (aux) you (nsubj) risk (ROOT) injury (dobj) or (cc) death (conj). you (nsubj) ca (aux) nt (neg) keep (ROOT) updated (oprd) if (mark) your (nsubj) no (neg) longer (advmod) physically (advmod) able (advcl) to (prep)

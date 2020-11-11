@@ -1,0 +1,1 @@
+calvin (compound) Jones (nsubj) does (aux) awesome (ROOT) diy (compound) demos (dobj). switched (ROOT) mini (amod) brakes (dobj) my (poss) touring (compound) bike (npadvmod). with (prep) century (pobj) braking (acl) tech (dobj) and (cc) power (conj) just (advmod) could (aux) nt (neg) get (auxpass) used (ROOT) anti (amod) brakes (dobj) anymore (advmod)

@@ -1,0 +1,1 @@
+however (advmod) they (nsubj) need (ROOT) have (aux) the (det) bike (nsubj) certified (ROOT) know (compound) - (punct) how (advmod) long (advmod) does (aux) that (nsubj) take (ccomp). added (ROOT) the (dobj). estimated (ROOT)

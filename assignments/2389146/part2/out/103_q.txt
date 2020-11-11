@@ -1,0 +1,1 @@
+your (poss) mistake (nsubj) was (auxpass) take (ROOT) things (dobj) seriously (advmod) and (cc) believe (conj) in (prep) facts (pobj) which (nsubjpass) are (auxpass) not (neg) held (relcl) in (prep) high (amod) regard (pobj) around (prep) here (pcomp)

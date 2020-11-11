@@ -1,0 +1,1 @@
+right (nsubj) saw (ROOT) the (det) post (dobj). is (ROOT) yours (compound) model (attr)

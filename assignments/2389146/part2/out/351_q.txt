@@ -1,0 +1,1 @@
+one (nsubj) of (prep) the (det) biggest (amod) gripes (pobj) right (advmod) now (advmod) the (det) backer (compound) board (nsubj) is (ROOT) how (advmod) ugly (acomp) the (det) seaport (compound) quickrelease (compound) lever (nsubj) is (ccomp) which (nsubj) is (ccomp) true (acomp)

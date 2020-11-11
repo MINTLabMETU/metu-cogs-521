@@ -1,0 +1,1 @@
+look (ROOT) around (prep) what (dobj) people (nsubj) you (nsubj) ride (relcl) with (prep) are (aux) riding (pcomp) and (cc) what (dobj) your (poss) local (amod) bike (compound) shop (nsubj) is (aux) selling (conj). guarantee (ROOT) the (det) majority (nsubj) is (ccomp) tires (attr). lack (nsubj) of (prep) sales (pobj) will (aux) kill (ROOT) off (prt) the (det) wheel (dobj)

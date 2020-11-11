@@ -1,0 +1,1 @@
+how (advmod) many (nsubj) know (ROOT) the (det) basic (amod) mechanics (dobj) of (prep) Levers (pobj) in (prep) general (amod). q (meta) what (attr) is (ROOT) the (det) difference (nsubj) between (prep) types (pobj) . (punct)

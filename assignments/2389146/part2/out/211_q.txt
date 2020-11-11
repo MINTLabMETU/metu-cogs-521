@@ -1,0 +1,1 @@
+recently (advmod) picked (ROOT) up (prt) the (det) Trek (compound) Roscoe (dobj) plus (cc) tires (conj). love (ROOT) this (det) thing (dobj). this (nsubj) was (ROOT) grind (attr) of (prep) climb (pobj) but (cc) the (det) ride (nsubj) down (advmod) was (conj) awesome (acomp)

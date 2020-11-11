@@ -1,0 +1,1 @@
+. and (cc) stem (ROOT) riser (dobj). being (csubj) tall (acomp) I (nsubj) m (aux) always (advmod) watching (ccomp) out (prt) for (prep) tall (amod) people (pobj) type (ROOT) mods (dobj). speedo (ROOT)

@@ -1,0 +1,1 @@
+look (ROOT) the (det) size (nsubj) of (prep) that (nsubj) chairing (pobj). . anyone (nsubj) know (ROOT) what (det) crank (nsubj) can (aux) go (ccomp) that (advmod) small (acomp)

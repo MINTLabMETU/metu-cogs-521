@@ -1,0 +1,1 @@
+why (advmod) not (neg) in (ROOT) bikes (pobj) as (prep) whole (amod)

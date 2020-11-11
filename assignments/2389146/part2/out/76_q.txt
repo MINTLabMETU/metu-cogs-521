@@ -1,0 +1,1 @@
+do (aux) not (neg) consider (ROOT) myself (nsubj) mail (ccomp). am (ROOT) amis (nmod) fat (amod) man (attr) in (prep) spade (pobj). much (advmod) more (advmod) unappealing (ROOT)

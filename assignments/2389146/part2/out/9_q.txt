@@ -1,0 +1,1 @@
+quick (amod) question (nsubj) just (advmod) purchased (ROOT) spes (compound) allen (compound) Sport (compound) Full (amod) sort (advmod) compact (amod) crank (dobj). the (det) small (amod) cog (nsubj) is (ROOT) practically (advmod) useless (acomp) for (prep) where (advmod) ride (nsubj) is (pcomp) it (nsubj) possible (acomp) swap (ROOT) that (dobj) or (cc) co. (pobj)

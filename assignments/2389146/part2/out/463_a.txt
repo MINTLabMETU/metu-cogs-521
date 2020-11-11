@@ -1,0 +1,1 @@
+not (neg) sure (ROOT) if (mark) it (nsubj) can (aux) repaired (ccomp) but (cc) you (nsubj) can (aux) certainly (advmod) replace (conj) the (det) whole (amod) handlebar (compound) post (dobj). ill (nsubj) doing (acl) that (dobj) in (prep) week (pobj) or (cc) two (nummod) hopefully (advmod) wo (aux) nt (neg) too (advmod) difficult (ROOT)

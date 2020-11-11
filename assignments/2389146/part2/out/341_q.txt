@@ -1,0 +1,1 @@
+indeed (advmod) where (advmod) is (ROOT) the (det) shifter (nsubj). do (aux) you (nsubj) have (ROOT) other (amod) pics (dobj) from (prep) different (amod) angles (pobj) for (prep) the (det) final (amod) design (compound) share (pobj). ideally (advmod) with (mark) shifter (pobj) installed (ROOT)

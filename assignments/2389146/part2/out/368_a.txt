@@ -1,0 +1,1 @@
+yeah (ROOT) thought (ROOT) that (nsubj) applied (ccomp) everyone (nsubj) backers (ccomp) preorderers (dobj). good (amod) job (nsubj) making (ROOT) sure (acomp)

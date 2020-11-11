@@ -1,0 +1,1 @@
+two (nummod) years (nsubj) is (ROOT) NOT (neg) weird (acomp) if (mark) your (poss) starting (amod) new (amod) tech (compound) bike (compound) company (advcl) from (prep) scratch (pobj)

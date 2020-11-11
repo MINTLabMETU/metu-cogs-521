@@ -1,0 +1,1 @@
+it (nsubj) might (ROOT) just (advmod) me (dobj) but (cc) it (nsubj) looks (ROOT) like (intj) is (aux) going (xcomp) have (xcomp) same (amod) fate (dobj) as (prep). all (predet) the (det) new (amod) mountainsides (nsubj) seem (ROOT) . (punct)

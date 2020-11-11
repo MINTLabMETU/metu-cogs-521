@@ -1,0 +1,1 @@
+okay (ROOT). so (advmod) sparky (advmod) she (nsubj) is (ROOT) . (punct)

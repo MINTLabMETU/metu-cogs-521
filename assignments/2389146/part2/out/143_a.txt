@@ -1,0 +1,1 @@
+this (ROOT) what (nsubj) happens (relcl) with (prep) consumer (compound) complaints (pobj) in (prep) all (det) industries (pobj)

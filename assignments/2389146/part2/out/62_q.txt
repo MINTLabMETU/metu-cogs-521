@@ -1,0 +1,1 @@
+this (nsubj) is (ROOT) true (acomp) but (cc) can (aux) it (nsubj) do (conj) anything (dobj) well (advmod)

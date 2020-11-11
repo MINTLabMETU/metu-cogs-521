@@ -1,0 +1,1 @@
+can (aux) fit (ROOT) in (prep) my (poss) Fusion (pobj). could (aux) easily (advmod) do (ROOT) and (cc) put (conj) cabinets (dobj) my (poss) roof (compound) rack (dobj)

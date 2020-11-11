@@ -1,0 +1,1 @@
+you (nsubj) mean (parataxis) the (det) forward (nsubj) reaching (ROOT) backwards (prep) seat (compound) post (compound) clamp (pobj). that (nsubj) s (ROOT) the (det) way (attr) the (det) seat (compound) post (nsubj) came (relcl) the (det) damon (dobj) Curl (appos) you (nsubj) shipped (relcl) me (dobj) . (punct)

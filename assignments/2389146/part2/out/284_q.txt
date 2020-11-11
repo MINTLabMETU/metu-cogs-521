@@ -1,0 +1,1 @@
+the (det) little (amod) brass (compound) washers (compound) youse (nsubj) threaded (ROOT) onto (prep) the (det) spokes (pobj) sit (advcl) between (prep) the (det) flange (pobj) and (cc) the (det) spoke (amod) head (conj). i (nsubj) ve (aux) not (neg) seen (ROOT) that (dobj) before (mark) it (nsubj) is (aux) protect (advcl) the (det) flange (compound) holes (dobj)

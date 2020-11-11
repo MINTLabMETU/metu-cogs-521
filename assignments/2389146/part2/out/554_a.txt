@@ -1,0 +1,1 @@
+plus (cc) is (aux) essentially (advmod) depending (ROOT) the (det) exact (amod) dimensions (dobj) of (prep) the (det) tires (pobj) you (nsubj) will (aux) enjoy (ccomp) this (det) bike (dobj)

@@ -1,0 +1,1 @@
+thanks (ROOT). yes (intj) it (nsubj) is (ROOT) very (advmod) nice (amod) ride (attr). everything (nsubj) sort (advmod) of (advmod) fits (ROOT) together (advmod). dans (compound) Comp (nsubj) has (ROOT) AC (compound) Claws (nsubj) freewheel (ccomp) down (prt) in (prep) both (pobj) and (cc)

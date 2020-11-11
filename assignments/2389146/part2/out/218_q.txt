@@ -1,0 +1,1 @@
+are (aux) you (nsubj) using (ROOT) road (compound) brake (compound) levers (dobj) or (cc) mountain (compound) brake (compound) levers (conj). edit (nsubj) First (advmod) come (ROOT) back (advmod) and (cc) then (advmod) this (det) thread (ROOT). its (poss) like (intj) never (neg) left (ROOT)

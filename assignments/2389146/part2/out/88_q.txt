@@ -1,0 +1,1 @@
+someone (nsubj) remind (ccomp) me (dobj) againwhat (det) difference (dobj) does (aux) it (nsubj) make (ROOT) what (dobj) other (amod) people (nsubj) choose (ccomp) ride (dobj)

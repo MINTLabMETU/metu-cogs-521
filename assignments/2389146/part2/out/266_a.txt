@@ -1,0 +1,1 @@
+is (ROOT) it (nsubj) still (advmod) the (det) nashwan (amod) front (amod) rack (attr). what (det) material (dobj) did (aux) you (nsubj) use (ROOT) for (prep) the (det) hook (pobj). that (nsubj) s (ROOT) awesome (amod) setup (attr) by (prep) the (det) way (pobj). think (ROOT) Ill (nsubj) borrow (ccomp) it (dobj) . (punct)

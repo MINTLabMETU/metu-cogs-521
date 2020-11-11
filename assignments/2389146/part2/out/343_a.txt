@@ -1,0 +1,1 @@
+brompton (compound) BEST (nsubj) folding (ROOT) bike (dobj) in (prep) the (det) world (pobj) but (cc) still (advmod) made (conj) with (prep) technology (pobj) and (cc) components (conj) from (prep) the (pobj). not (neg) worth (ROOT) the (npadvmod) they (nsubj) keep (ROOT) charging (xcomp). hope (ROOT) Helix (nsubj) kills (ccomp) them (dobj) . (punct)

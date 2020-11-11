@@ -1,0 +1,1 @@
+would (aux) expect (ROOT) they (nsubj) are (aux) having (ccomp) their (poss) bikes (nsubj) built (ccomp) by (agent) OEM (pobj) and (cc) then (advmod) there (expl) would (ROOT) other (amod) folders (dobj) that (nsubj) use (relcl) that (det) suppliers (dobj)

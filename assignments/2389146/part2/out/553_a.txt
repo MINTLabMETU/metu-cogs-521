@@ -1,0 +1,1 @@
+cool (nsubj) just (advmod) checked (ROOT) my (poss) account (nsubj) and (cc) mine (conj) has (aux) shipped (ccomp) now (advmod). was (aux) expecting (ROOT) email (dobj)

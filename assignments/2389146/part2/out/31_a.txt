@@ -1,0 +1,1 @@
+much (nsubj) rather (advmod) see (ROOT) someone (dobj) that (nsubj) is (relcl) new (acomp) the (det) sport (nsubj) ask (ccomp) the (det) same (amod) questions (dobj) than (mark) see (advcl) them (nsubj) make (ccomp) bad (amod) choice (dobj)

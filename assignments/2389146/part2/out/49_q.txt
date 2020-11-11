@@ -1,0 +1,1 @@
+was (ROOT) it (nsubj) actually (advmod) fun (acomp) for (dative) you (pobj). if (mark) yes (intj) respect (ROOT) that (dobj) but (cc) do (aux) nt (neg) understand (conj) it (dobj) of (prep) And (cc) my (poss) guess (nsubj) is (ROOT) few (amod) people (nsubj) find (ccomp) training (compound) fund (dobj)

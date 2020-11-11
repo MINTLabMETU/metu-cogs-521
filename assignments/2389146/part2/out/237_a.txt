@@ -1,0 +1,1 @@
+i (nsubj) m (ROOT) curious (acomp) why (advmod) touring (compound) bikes (nsubj) avenged (advcl) different (amod) leverage (compound) ratios (dobj) than (prep) any (det) other (amod) type (pobj) of (prep) bike (pobj). can (aux) you (nsubj) explain (ROOT) the (det) reasoning (dobj) there (advmod). thanks (ROOT). radio (ROOT)

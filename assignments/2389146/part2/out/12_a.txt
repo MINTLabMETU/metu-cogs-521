@@ -1,0 +1,1 @@
+well (intj) thanks (ROOT) lot (npadvmod). ill (amod) check (compound) Wiggle (ROOT) and (cc) Amazon (conj). ill (nsubj) come (ROOT) back (advmod) if (mark) more (amod) questions (nsubj) arise (advcl) after (prep) review (pcomp) the (det) components (dobj) you (nsubj) suggest (relcl). thanks (ROOT) again (advmod)

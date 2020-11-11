@@ -1,0 +1,1 @@
+go (ROOT) back (advmod) tubes (dobj) and (cc) try (conj) another (dobj) when (advmod) you (nsubj) are (advcl) calmer (acomp). you (nsubj) could (aux) probably (advmod) save (ROOT) the (det) sealant (dobj) if (mark) you (nsubj) are (advcl) careful (acomp) the (det) tape (nsubj) is (ccomp) loss (compound) thought (conj)

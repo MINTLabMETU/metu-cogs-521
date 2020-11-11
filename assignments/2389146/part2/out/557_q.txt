@@ -1,0 +1,1 @@
+the (det) bike (compound) industry (nsubj) should (aux) of (advmod) kept (ROOT) and (cc) as (conj) the (det) two (nummod) industry (compound) standards (pobj)

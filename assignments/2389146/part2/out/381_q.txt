@@ -1,0 +1,1 @@
+is (ROOT) it (nsubj) true (acomp)

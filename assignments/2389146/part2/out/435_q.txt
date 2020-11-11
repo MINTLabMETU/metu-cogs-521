@@ -1,0 +1,1 @@
+speed (ROOT) it (dobj) with (prep) mm (pobj) however (advmod) the (det) factory (nsubj) used (advcl) mm (poss) spindles (dobj) least (advmod) one (nummod) shipment.due (nsubj) supply (ccomp) chain (compound) issues (dobj). thanks (ROOT) Yan (npadvmod)

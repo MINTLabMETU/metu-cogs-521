@@ -1,0 +1,1 @@
+can (aux) you (nsubj) fit (ROOT) laptop (dobj) into (prep) your (poss) carradine (compound) bag (pobj). my (poss) laptop (nsubj) is (ROOT) about (prep) cm (compound) x (punct) cm (pobj) . (punct)

@@ -1,0 +1,1 @@
+moreover (advmod) is (ROOT) meaningless (acomp) it (nsubj) mean (ROOT) earth (compound) earth (compound) earth (dobj) or (cc) earth (conj). same (ROOT) for (prep) earth (pobj) or (cc) earth (conj). same (ROOT) for (prep) earth (pobj) or (cc) earth (conj) . (punct)

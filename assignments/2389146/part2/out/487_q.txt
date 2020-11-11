@@ -1,0 +1,1 @@
+this (det) birds (ROOT) Standard (compound) speed (appos) worth (amod) getting (xcomp) for (prep). stem (compound) birds (nsubj) adjustable (ROOT) some (det) degree (dobj)

@@ -1,0 +1,1 @@
+thought (ROOT) all (det) bikes (nsubj) did (ccomp) this (dobj) . (punct) Interesting (ROOT). still (advmod) not (neg) worth (ROOT) the (det) cash (dobj) my (poss) bike (npadvmod) though (advmod). lol (compound) headset (compound) bike (ROOT)

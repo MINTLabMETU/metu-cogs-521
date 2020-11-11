@@ -1,0 +1,1 @@
+uh (intj) there (expl) are (ROOT) untold (amod) millions (attr) of (prep) folding (pcomp) bikes (dobj) from (prep) dozens (pobj) of (prep) manufacturers (pobj) running (acl) around (prep) the (det) world (pobj) just (advmod) fine (oprd). exploring (amod) city (nsubj) seems (ROOT) pretty (advmod) minor (oprd)

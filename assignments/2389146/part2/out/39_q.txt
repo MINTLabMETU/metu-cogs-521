@@ -1,0 +1,1 @@
+sorry (advmod) missed (ROOT) this (det) one (dobj). mabs (nsubj) are (ROOT) so (advmod) popular (acomp) because (mark) they (nsubj) are (advcl) way (npadvmod) more (advmod) fun (acomp) than (prep) those (det) silly (amod) skinny (amod) tired (amod) bikes (pobj)

@@ -1,0 +1,1 @@
+what (det) valve (nsubj) stems (dobj) did (aux) you (nsubj) use (ROOT). you (nsubj) really (advmod) should (aux) having (ROOT) this (det) much (amod) trouble (dobj)

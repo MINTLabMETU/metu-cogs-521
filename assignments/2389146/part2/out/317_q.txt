@@ -1,0 +1,1 @@
+am (aux) thinking (ROOT) about (prep) getting (pcomp) the (det) swift (dobj) sometime (advmod) soon (advmod) and (cc) noticed (conj) that (mark) the (det) main (amod) site (nsubj) says (ccomp) they (nsubj) are (ccomp) out (prep) of (prep) stock (pobj)

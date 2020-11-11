@@ -1,0 +1,1 @@
+thanks (ROOT) James (npadvmod) I (nsubj) m (dep) waiting (ROOT) for (prep) set (pobj) of (prep) Pivot (compound) Plugs (pobj) see (ROOT) tidy (dobj) up (prt) the (det) rear (amod) end (pobj). just (advmod) proving (csubj) difficult (acomp) lay (ROOT) my (poss) hands (nsubj) set (ccomp) right (advmod) now (advmod)

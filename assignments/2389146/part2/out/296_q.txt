@@ -1,0 +1,1 @@
+paraphrase (compound) Reporter (nsubj) know (ROOT) thy (compound) lexicon (dobj)

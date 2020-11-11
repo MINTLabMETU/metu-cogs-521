@@ -1,0 +1,1 @@
+btw (nsubj) weighed (ROOT) everything (dobj) my (poss) scale (dobj) and (cc) chopped (conj) off (prt) over (prep) half (amod) pound (pobj) from (prep) each (det) wheel (pobj). these (det) tubes (nsubj) are (ROOT) huge (acomp)

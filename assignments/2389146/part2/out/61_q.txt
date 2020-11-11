@@ -1,0 +1,1 @@
+but (cc) the (det) fact (nsubj) remains (ROOT) you (nsubj) could (aux) have (ccomp) only (advmod) one (nummod) bike (dobj) the (det) mountain (compound) bike (nsubj) can (aux) go (relcl) anywhere (advmod) and (cc) do (conj) anything (dobj)

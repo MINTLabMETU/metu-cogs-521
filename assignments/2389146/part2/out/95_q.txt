@@ -1,0 +1,1 @@
+if (mark) you (nsubj) agent (advcl) getting (xcomp) workout (dobj) while (mark) riding (advcl) bicycle (dobj) perhaps (advmod) you (nsubj) are (aux) doing (ROOT) it (dobj) wrong (advmod)

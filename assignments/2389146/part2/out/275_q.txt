@@ -1,0 +1,1 @@
+the (det) email (nsubj) also (advmod) explained (ROOT) that (mark) the (det) door (compound) design (compound) team (nsubj) has (aux) incorporated (ccomp) change (dobj) in (prep) the (det) frame (pobj) that (nsubj) will (aux) prevent (relcl) this (dobj) from (prep) happening (pcomp) again (advmod) new (amod) swifts (dobj)

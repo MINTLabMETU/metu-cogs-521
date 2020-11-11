@@ -1,0 +1,1 @@
+have (aux) you (nsubj) contacted (ROOT) Tern (dobj) about (prep) the (det) failure (pobj) and (cc) if (mark) so (advmod) what (nsubj) has (aux) been (conj) their (poss) response (attr) so (advmod) far (advmod)

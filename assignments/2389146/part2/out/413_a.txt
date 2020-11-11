@@ -1,0 +1,1 @@
+think (ROOT) Yan (nsubj) had (aux) posted (ccomp) earlier (advmod) that (mark) the (det) NS (nsubj) is (ccomp) more (advmod) expensive (acomp) because (mark) the (det) frame (nsubj) is (advcl) higher (amod) grade (compound) aluminum (attr) and (cc) is (conj) lighter (acomp)

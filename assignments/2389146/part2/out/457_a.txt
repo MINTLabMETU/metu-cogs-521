@@ -1,0 +1,1 @@
+he (nsubj) s (aux) got (ROOT) good (amod) taste (dobj) do (aux) nt (neg) you (nsubj) think (ROOT)

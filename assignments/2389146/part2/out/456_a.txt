@@ -1,0 +1,1 @@
+the (det) owner (nsubj) of (prep) this (det) bike (pobj) is (aux) not (neg) posting (ccomp) here (advmod) think (ROOT). you (nsubj) need (ROOT) contact (dobj) him (dobj) here (advmod)

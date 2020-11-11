@@ -1,0 +1,1 @@
+there (expl) is (ROOT) about (advmod) mm (compound) difference (attr) between (prep) the (det) seaport (compound) tube (pobj) between (prep) the (det) classic (pobj) and (cc) monocoque (conj). it (nsubj) means (ROOT) that (mark) if (mark) swop (advcl) seaport (dobj) between (prep) bikes (pobj) need (aux) adjust (ccomp) the (det) QR (compound) couple (dobj) of (prep) turns (pobj)

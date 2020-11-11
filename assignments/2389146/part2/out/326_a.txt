@@ -1,0 +1,1 @@
+you (nsubj) can (aux) also (advmod) go (ROOT) with (prep) SRAM (compound) Dual (compound) Drive (pobj) for (prep) wide (amod) gear (compound) range (pobj). the (det) loss (nsubj) of (prep) performance (pobj) is (ROOT) minimal (acomp)

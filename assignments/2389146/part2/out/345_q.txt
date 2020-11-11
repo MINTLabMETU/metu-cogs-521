@@ -1,0 +1,1 @@
+nah (nsubj) do (aux) nt (neg) kill (ROOT). maybe (advmod) not (ROOT) but (cc) Bs (nsubj) have (ROOT) their (poss) place (dobj) in (prep) the (det) ecosystem (pobj). for (prep) example (pobj) love (ROOT) the (det) shopping (compound) cart (compound) mode (dobj) which (pobj) Helix (nsubj) will (aux) incapable (relcl) of (prep)

@@ -1,0 +1,1 @@
+nynex (nsubj) come (ROOT) the (det) handle (nsubj) bars (ccomp) the (det) wiring (dobj) for (prep) the (det) brakes (pobj) and (cc) the (det) pedals (conj). one (nsubj) guess (ROOT) as (prep) the (det) gender (pobj) of (prep) the (det) reporter (pobj)

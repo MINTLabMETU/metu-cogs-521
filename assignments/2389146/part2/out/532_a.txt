@@ -1,0 +1,1 @@
+that (det) sound (nsubj) of (prep) the (det) ringdrive (pobj) is (ROOT) what (nsubj) gives (csubj) CK (dobj) hubs (ccomp) their (poss) nearly (advmod) instantaneous (amod) engagement (dobj). its (poss) sound (ROOT) that (nsubj) commands (relcl) respect (dobj)

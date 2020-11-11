@@ -1,0 +1,1 @@
+funny (amod) thing (nsubj) is (ROOT) that (mark) stuff (nsubj) adds (ccomp) the (det) fun (dobj) for (dative) me (pobj). a (det) see (ROOT) mabs (dobj) more (advmod) like (prep) interval (compound) training (pobj) and (cc) like (prep) that (pobj). luckily (advmod) both (dep) get (ROOT) buy (xcomp) what (det) like (intj). cheers (ROOT)
