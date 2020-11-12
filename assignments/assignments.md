@@ -17,7 +17,8 @@ Try to make your code accessible, meaning taking good care of stucture, naming, 
 ## Part I
 
 - **\[topic\]** preprocessing texts
-- **\[due\]** 4th of Nov.
+- **\[due\]** 18th of Nov.
+- **\[grade\]** 10%
 - **\[programming language\]** any
 - **\[input language\]** any (preferably the one you will work with in your project)
 - **\[tasks\]** code a basic preprocesser with a similar scope examplified in the online tutorial, which utilizes third party processes when necessary
@@ -28,7 +29,8 @@ Try to make your code accessible, meaning taking good care of stucture, naming, 
 ## Part II
 
 - **\[topic\]** grammatical tagging
-- **\[due\]** 11th of Nov.
+- **\[due\]** 18th of Nov.
+- **\[grade\]** 10%
 - **\[programming language\]** any
 - **\[input language\]** same as part I
 - **\[tasks\]** code a grammatical tagger that analyzes the output of part I
@@ -38,7 +40,8 @@ Try to make your code accessible, meaning taking good care of stucture, naming, 
 ## Part III
 
 - **\[topic\]** restructuring data
-- **\[due\]** 18th of Nov.
+- **\[due\]** TBA
+- **\[grade\]** 10%
 - **\[programming language\]** any
 - **\[input language\]** same as before
 - **\[tasks\]** code a script that restructures the output of part II
