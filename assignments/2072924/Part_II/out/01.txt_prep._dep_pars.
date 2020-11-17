@@ -1,0 +1,1044 @@
+SURFACE_FORM: plates ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: Cratylus ANALYSIS: NNP PROPN noun, proper singular
+
+SURFACE_FORM: First ANALYSIS: RB ADV adverb
+SURFACE_FORM: published ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: p ANALYSIS: LS X list item marker
+SURFACE_FORM: substantive ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: revision ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: p ANALYSIS: LS X list item marker
+
+SURFACE_FORM: The ANALYSIS: DT DET determiner
+SURFACE_FORM: formal ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: topic ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: Cratylus ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: correctness ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: names ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: hot ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: topic ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: late ANALYSIS: RB ADV adverb
+SURFACE_FORM: fifth ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: century ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: when ANALYSIS: WRB ADV wh-adverb
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: dialogue ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: has ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: its ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: dramatic ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: setting ANALYSIS: VBG VERB verb, gerund or present participle
+SURFACE_FORM: sophist ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: like ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: products ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: offered ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: training ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: courses ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: this ANALYSIS: DT DET determiner
+SURFACE_FORM: subject ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: sometimes ANALYSIS: RB ADV adverb
+SURFACE_FORM: perhaps ANALYSIS: RB ADV adverb
+SURFACE_FORM: meaning ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: by ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: it ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: little ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: more ANALYSIS: JJR ADJ adjective, comparative
+SURFACE_FORM: than ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: lessons ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: correct ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: diction ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: But ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: that ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: practical ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: issue ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: spawned ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: theoretical ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: question ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: what ANALYSIS: WP PRON wh-pronoun, personal
+SURFACE_FORM: criteria ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: determine ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: correct ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: choice ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: name ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: for ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: any ANALYSIS: DT DET determiner
+SURFACE_FORM: given ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: object ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: And ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: Cratylus ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: Socrates ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: two ANALYSIS: CD NUM cardinal number
+SURFACE_FORM: primary ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: interlocutors ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: Hermogenes ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: Cratylus ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: latter ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: whom ANALYSIS: WP PRON wh-pronoun, personal
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: reported ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: by ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: Aristotle ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: have ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: been ANALYSIS: VBN AUX verb, past participle
+SURFACE_FORM: an ANALYSIS: LS X list item marker
+SURFACE_FORM: early ANALYSIS: RB ADV adverb
+SURFACE_FORM: philosophical ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: influence ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: on ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: Plato ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: represent ANALYSIS: VB VERB verb, base form
+SURFACE_FORM: two ANALYSIS: CD NUM cardinal number
+SURFACE_FORM: diametrically ANALYSIS: RB ADV adverb
+SURFACE_FORM: opposed ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: answers ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: that ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: question ANALYSIS: NN NOUN noun, singular or mass
+
+SURFACE_FORM: As ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: preliminary ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: it ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: important ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: be ANALYSIS: VB AUX verb, base form
+SURFACE_FORM: clear ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: about ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: what ANALYSIS: WP PRON wh-pronoun, personal
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: meant ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: by ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: names ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: The ANALYSIS: DT DET determiner
+SURFACE_FORM: plural ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: noun ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: odonata ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: singular ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: sonoma ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: translated ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: names ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: fact ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: varies ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: between ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: being ANALYSIS: VBG AUX verb, gerund or present participle
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: general ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: term ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: for ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: words ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: b ANALYSIS: LS X list item marker
+SURFACE_FORM: more ANALYSIS: JJR ADJ adjective, comparative
+SURFACE_FORM: narrowly ANALYSIS: RB ADV adverb
+SURFACE_FORM: nouns ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: or ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: perhaps ANALYSIS: RB ADV adverb
+SURFACE_FORM: nouns ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: adjectives ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: c ANALYSIS: LS X list item marker
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: certain ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: contexts ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: proper ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: names ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: alone ANALYSIS: RB ADV adverb
+SURFACE_FORM: In ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: most ANALYSIS: RBS ADV adverb, superlative
+SURFACE_FORM: generic ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: use ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: it ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: comes ANALYSIS: VBZ VERB verb, 3rd person singular present
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: designate ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: language ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: as ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: such ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: Ultimately ANALYSIS: RB ADV adverb
+SURFACE_FORM: for ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: this ANALYSIS: DT DET determiner
+SURFACE_FORM: reason ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: Cratylus ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: plates ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: dialogue ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: about ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: language ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: even ANALYSIS: RB ADV adverb
+SURFACE_FORM: if ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: elements ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: language ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: on ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: which ANALYSIS: WDT DET wh-determiner
+SURFACE_FORM: it ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: concentrates ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: are ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: fact ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: mainly ANALYSIS: RB ADV adverb
+SURFACE_FORM: nouns ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: Proper ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: names ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: are ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: included ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: among ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: these ANALYSIS: DT DET determiner
+SURFACE_FORM: nouns ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: at ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: times ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: are ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: treated ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: as ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: paradigmatic ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: examples ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: them ANALYSIS: PRP PRON pronoun, personal
+
+SURFACE_FORM: The ANALYSIS: DT DET determiner
+SURFACE_FORM: positions ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: Hermogenes ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: Cratylus ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: have ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: come ANALYSIS: VB VERB verb, base form
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: be ANALYSIS: VB AUX verb, base form
+SURFACE_FORM: known ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: modern ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: scholarship ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: as ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: conventionalism ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: naturalism ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: respectively ANALYSIS: RB ADV adverb
+SURFACE_FORM: An ANALYSIS: DT DET determiner
+SURFACE_FORM: extreme ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: linguistic ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: conventionalist ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: like ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: Hermogenes ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: holds ANALYSIS: VBZ VERB verb, 3rd person singular present
+SURFACE_FORM: that ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: nothing ANALYSIS: NN PRON noun, singular or mass
+SURFACE_FORM: but ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: local ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: or ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: national ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: convention ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: determines ANALYSIS: VBZ VERB verb, 3rd person singular present
+SURFACE_FORM: which ANALYSIS: WDT DET wh-determiner
+SURFACE_FORM: words ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: are ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: used ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: designate ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: which ANALYSIS: WDT DET wh-determiner
+SURFACE_FORM: objects ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: The ANALYSIS: DT DET determiner
+SURFACE_FORM: same ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: names ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: could ANALYSIS: MD VERB verb, modal auxiliary
+SURFACE_FORM: have ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: been ANALYSIS: VBN AUX verb, past participle
+SURFACE_FORM: attached ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: quite ANALYSIS: RB ADV adverb
+SURFACE_FORM: different ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: objects ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: same ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: objects ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: given ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: quite ANALYSIS: RB ADV adverb
+SURFACE_FORM: different ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: names ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: so ANALYSIS: RB ADV adverb
+SURFACE_FORM: long ANALYSIS: RB ADV adverb
+SURFACE_FORM: as ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: users ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: language ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: were ANALYSIS: VBD AUX verb, past tense
+SURFACE_FORM: party ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: convention ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: Cratylus ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: as ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: an ANALYSIS: LS X list item marker
+SURFACE_FORM: extreme ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: linguistic ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: naturalist ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: holds ANALYSIS: VBZ VERB verb, 3rd person singular present
+SURFACE_FORM: that ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: names ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: cannon ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: be ANALYSIS: VB AUX verb, base form
+SURFACE_FORM: arbitrarily ANALYSIS: RB ADV adverb
+SURFACE_FORM: chosen ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: way ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: that ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: conventionalism ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: describes ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: or ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: advocates ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: because ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: names ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: belong ANALYSIS: VB VERB verb, base form
+SURFACE_FORM: naturally ANALYSIS: RB ADV adverb
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: their ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: specific ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: objects ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: If ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: you ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: try ANALYSIS: VB VERB verb, base form
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: speak ANALYSIS: VB VERB verb, base form
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: something ANALYSIS: NN PRON noun, singular or mass
+SURFACE_FORM: with ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: any ANALYSIS: DT DET determiner
+SURFACE_FORM: name ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: other ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: than ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: its ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: natural ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: name ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: you ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: are ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: simply ANALYSIS: RB ADV adverb
+SURFACE_FORM: failing ANALYSIS: VBG VERB verb, gerund or present participle
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: refer ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: it ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: at ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: all ANALYSIS: DT DET determiner
+SURFACE_FORM: For ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: example ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: he ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: has ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: told ANALYSIS: VBD VERB verb, past tense
+SURFACE_FORM: Hermogenes ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: matters ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: intense ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: annoyance ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: Hermogenes ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: not ANALYSIS: RB PART adverb
+SURFACE_FORM: actually ANALYSIS: RB ADV adverb
+SURFACE_FORM: his ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: name ANALYSIS: NNP PROPN noun, proper singular
+
+SURFACE_FORM: Socrates ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: main ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: speaker ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: this ANALYSIS: DT DET determiner
+SURFACE_FORM: dialogue ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: his ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: arguments ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: are ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: generally ANALYSIS: RB ADV adverb
+SURFACE_FORM: taken ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: represent ANALYSIS: VB VERB verb, base form
+SURFACE_FORM: plates ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: own ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: current ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: views ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: He ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: starts ANALYSIS: VBZ VERB verb, 3rd person singular present
+SURFACE_FORM: out ANALYSIS: RP ADP adverb, particle
+SURFACE_FORM: by ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: criticizing ANALYSIS: VBG VERB verb, gerund or present participle
+SURFACE_FORM: conventionalism ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: persuades ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: Hermogenes ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: that ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: some ANALYSIS: DT DET determiner
+SURFACE_FORM: kind ANALYSIS: RB ADV adverb
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: naturalism ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: must ANALYSIS: MD VERB verb, modal auxiliary
+SURFACE_FORM: be ANALYSIS: VB AUX verb, base form
+SURFACE_FORM: endorsed ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: This ANALYSIS: DT DET determiner
+SURFACE_FORM: leads ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: long ANALYSIS: RB ADV adverb
+SURFACE_FORM: central ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: section ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: which ANALYSIS: WDT DET wh-determiner
+SURFACE_FORM: Socrates ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: version ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: naturalism ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: spelt ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: out ANALYSIS: RP ADP adverb, particle
+SURFACE_FORM: by ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: appeal ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: proposed ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: etymologies ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: philosophically ANALYSIS: RB ADV adverb
+SURFACE_FORM: important ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: words ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: those ANALYSIS: DT DET determiner
+SURFACE_FORM: words ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: it ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: turns ANALYSIS: VBZ VERB verb, 3rd person singular present
+SURFACE_FORM: out ANALYSIS: RP ADP adverb, particle
+SURFACE_FORM: have ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: not ANALYSIS: RB PART adverb
+SURFACE_FORM: been ANALYSIS: VBN AUX verb, past participle
+SURFACE_FORM: attached ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: merely ANALYSIS: RB ADV adverb
+SURFACE_FORM: arbitrary ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: way ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: their ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: objects ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: but ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: are ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: encoded ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: descriptions ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: them ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: So ANALYSIS: RB ADV adverb
+SURFACE_FORM: far ANALYSIS: RB ADV adverb
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: argument ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: seems ANALYSIS: VBZ VERB verb, 3rd person singular present
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: be ANALYSIS: VB AUX verb, base form
+SURFACE_FORM: going ANALYSIS: VBG VERB verb, gerund or present participle
+SURFACE_FORM: Cratylus ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: way ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: But ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: final ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: part ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: dialogue ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: Socrates ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: turns ANALYSIS: VBZ VERB verb, 3rd person singular present
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: Cratylus ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: shows ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: him ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: that ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: his ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: expectations ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: as ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: naturalist ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: are ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: set ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: impossibly ANALYSIS: RB ADV adverb
+SURFACE_FORM: high ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: names ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: cannon ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: aspire ANALYSIS: VB VERB verb, base form
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: being ANALYSIS: VBG AUX verb, gerund or present participle
+SURFACE_FORM: perfect ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: encapsulation ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: their ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: objects ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: essences ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: some ANALYSIS: DT DET determiner
+SURFACE_FORM: element ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: convention ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: must ANALYSIS: MD VERB verb, modal auxiliary
+SURFACE_FORM: be ANALYSIS: VB AUX verb, base form
+SURFACE_FORM: conceded ANALYSIS: VBN VERB verb, past participle
+
+SURFACE_FORM: Scholarly ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: opinion ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: has ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: long ANALYSIS: RB ADV adverb
+SURFACE_FORM: been ANALYSIS: VBN AUX verb, past participle
+SURFACE_FORM: divided ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: as ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: how ANALYSIS: WRB ADV wh-adverb
+SURFACE_FORM: Socrates ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: own ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: eventual ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: position ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: should ANALYSIS: MD VERB verb, modal auxiliary
+SURFACE_FORM: be ANALYSIS: VB AUX verb, base form
+SURFACE_FORM: understood ANALYSIS: VBD VERB verb, past tense
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: as ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: qualified ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: vindication ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: conventionalism ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: naturalism ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: or ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: neither ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: If ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: Socrates ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: read ANALYSIS: VB VERB verb, base form
+SURFACE_FORM: as ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: actually ANALYSIS: RB ADV adverb
+SURFACE_FORM: dismissing ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: naturalism ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: it ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: almost ANALYSIS: RB ADV adverb
+SURFACE_FORM: inevitable ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: that ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: his ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: naturalistic ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: etymological ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: decoding ANALYSIS: VBG VERB verb, gerund or present participle
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: words ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: which ANALYSIS: WDT DET wh-determiner
+SURFACE_FORM: well ANALYSIS: UH INTJ interjection
+SURFACE_FORM: over ANALYSIS: RB ADV adverb
+SURFACE_FORM: half ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: dialogue ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: devoted ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: should ANALYSIS: MD VERB verb, modal auxiliary
+SURFACE_FORM: be ANALYSIS: VB AUX verb, base form
+SURFACE_FORM: taken ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: as ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: not ANALYSIS: RB PART adverb
+SURFACE_FORM: seriously ANALYSIS: RB ADV adverb
+SURFACE_FORM: intended ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: fact ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: as ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: making ANALYSIS: VBG VERB verb, gerund or present participle
+SURFACE_FORM: fun ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: entire ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: etymological ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: practice ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: This ANALYSIS: DT DET determiner
+SURFACE_FORM: has ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: been ANALYSIS: VBN AUX verb, past participle
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: majority ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: position ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: among ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: interpreters ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: for ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: well ANALYSIS: UH INTJ interjection
+SURFACE_FORM: over ANALYSIS: RB ADV adverb
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: century ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: It ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: rests ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: partly ANALYSIS: RB ADV adverb
+SURFACE_FORM: on ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: conviction ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: that ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: etymologies ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: are ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: ridiculous ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: b ANALYSIS: LS X list item marker
+SURFACE_FORM: Plato ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: knew ANALYSIS: VBD VERB verb, past tense
+SURFACE_FORM: as ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: well ANALYSIS: UH INTJ interjection
+SURFACE_FORM: as ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: we ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: do ANALYSIS: VB AUX verb, base form
+SURFACE_FORM: that ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: they ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: are ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: ridiculous ANALYSIS: JJ ADJ adjective
+
+SURFACE_FORM: However ANALYSIS: RB ADV adverb
+SURFACE_FORM: at ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: least ANALYSIS: JJS ADJ adjective, superlative
+SURFACE_FORM: some ANALYSIS: DT DET determiner
+SURFACE_FORM: caution ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: required ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: here ANALYSIS: RB ADV adverb
+SURFACE_FORM: The ANALYSIS: DT DET determiner
+SURFACE_FORM: Greeks ANALYSIS: NNPS PROPN noun, proper plural
+SURFACE_FORM: knew ANALYSIS: VBD VERB verb, past tense
+SURFACE_FORM: little ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: about ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: historical ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: origins ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: their ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: own ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: language ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: style ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: etymology ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: practised ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: by ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: Socrates ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: this ANALYSIS: DT DET determiner
+SURFACE_FORM: dialogue ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: not ANALYSIS: RB PART adverb
+SURFACE_FORM: very ANALYSIS: RB ADV adverb
+SURFACE_FORM: different ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: except ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: perhaps ANALYSIS: RB ADV adverb
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: its ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: elaborateness ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: from ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: that ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: practised ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: by ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: great ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: many ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: ancient ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: writers ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: one ANALYSIS: CD NUM cardinal number
+SURFACE_FORM: which ANALYSIS: WDT DET wh-determiner
+SURFACE_FORM: had ANALYSIS: VBD AUX verb, past tense
+SURFACE_FORM: its ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: roots ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: Homer ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: hesiod ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: None ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: plates ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: readers ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: antiquity ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: starting ANALYSIS: VBG VERB verb, gerund or present participle
+SURFACE_FORM: with ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: his ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: own ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: pupil ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: Aristotle ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: seems ANALYSIS: VBZ VERB verb, 3rd person singular present
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: have ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: suspected ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: Cratylus ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: etymologies ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: being ANALYSIS: VBG AUX verb, gerund or present participle
+SURFACE_FORM: nonserious ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: The ANALYSIS: DT DET determiner
+SURFACE_FORM: interpretation ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: according ANALYSIS: VBG VERB verb, gerund or present participle
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: which ANALYSIS: WDT DET wh-determiner
+SURFACE_FORM: Plato ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: mocking ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: etymological ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: practice ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: although ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: not ANALYSIS: RB PART adverb
+SURFACE_FORM: demonstrably ANALYSIS: RB ADV adverb
+SURFACE_FORM: wrong ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: may ANALYSIS: MD VERB verb, modal auxiliary
+SURFACE_FORM: be ANALYSIS: VB AUX verb, base form
+SURFACE_FORM: suspected ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: crediting ANALYSIS: VBG VERB verb, gerund or present participle
+SURFACE_FORM: him ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: with ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: an ANALYSIS: LS X list item marker
+SURFACE_FORM: anachronistic ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: degree ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: insight ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: into ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: historical ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: linguistics ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: That ANALYSIS: DT DET determiner
+SURFACE_FORM: Socrates ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: long ANALYSIS: RB ADV adverb
+SURFACE_FORM: etymological ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: extravaganza ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: peppered ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: with ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: humour ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: not ANALYSIS: RB PART adverb
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: doubt ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: but ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: that ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: humour ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: must ANALYSIS: MD VERB verb, modal auxiliary
+SURFACE_FORM: be ANALYSIS: VB AUX verb, base form
+SURFACE_FORM: directed ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: at ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: etymologies ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: as ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: such ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: less ANALYSIS: JJR ADJ adjective, comparative
+SURFACE_FORM: clear ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: Reading ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: Socratic ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: humour ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: largely ANALYSIS: RB ADV adverb
+SURFACE_FORM: intuitive ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: matter ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: one ANALYSIS: CD NUM cardinal number
+SURFACE_FORM: which ANALYSIS: WDT DET wh-determiner
+SURFACE_FORM: regularly ANALYSIS: RB ADV adverb
+SURFACE_FORM: divides ANALYSIS: VBZ VERB verb, 3rd person singular present
+SURFACE_FORM: readers ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: Socrates ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: humour ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: Cratylus ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: at ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: least ANALYSIS: JJS ADJ adjective, superlative
+SURFACE_FORM: partly ANALYSIS: RB ADV adverb
+SURFACE_FORM: directed ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: at ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: his ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: own ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: uncharacteristic ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: boldness ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: declaiming ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: long ANALYSIS: RB ADV adverb
+SURFACE_FORM: strings ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: word ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: derivations ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: contrary ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: his ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: familiar ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: disavowal ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: expert ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: knowledge ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: about ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: anything ANALYSIS: NN PRON noun, singular or mass
+SURFACE_FORM: Whether ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: some ANALYSIS: DT DET determiner
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: it ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: left ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: over ANALYSIS: RB ADV adverb
+SURFACE_FORM: for ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: deflating ANALYSIS: VBG VERB verb, gerund or present participle
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: etymological ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: enterprise ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: itself ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: question ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: on ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: which ANALYSIS: WDT DET wh-determiner
+SURFACE_FORM: readers ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: must ANALYSIS: MD VERB verb, modal auxiliary
+SURFACE_FORM: make ANALYSIS: VB VERB verb, base form
+SURFACE_FORM: up ANALYSIS: RB ADV adverb
+SURFACE_FORM: their ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: own ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: minds ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: But ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: present ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: article ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: based ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: on ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: contrary ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: assumption ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: that ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: etymological ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: practice ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: on ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: display ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: dialogue ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: seriously ANALYSIS: RB ADV adverb
+SURFACE_FORM: meant ANALYSIS: VBN VERB verb, past participle
+
+SURFACE_FORM: Where ANALYSIS: WRB ADV wh-adverb
+SURFACE_FORM: does ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: Cratylus ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: belong ANALYSIS: VB VERB verb, base form
+SURFACE_FORM: among ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: plates ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: works ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: It ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: conventional ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: though ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: far ANALYSIS: RB ADV adverb
+SURFACE_FORM: from ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: uncontroversial ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: place ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: an ANALYSIS: LS X list item marker
+SURFACE_FORM: entire ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: series ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: dialogues ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: featuring ANALYSIS: VBG VERB verb, gerund or present participle
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: classical ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: theory ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: Forms ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: his ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: middle ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: period ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: see ANALYSIS: VB VERB verb, base form
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: entry ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: on ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: plates ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: middle ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: period ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: metaphysics ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: epistemology ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: And ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: three ANALYSIS: CD NUM cardinal number
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: these ANALYSIS: DT DET determiner
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: Republic ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: Phaedrus ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: Parmenides ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: are ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: often ANALYSIS: RB ADV adverb
+SURFACE_FORM: thought ANALYSIS: VBD VERB verb, past tense
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: belong ANALYSIS: VB VERB verb, base form
+SURFACE_FORM: late ANALYSIS: RB ADV adverb
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: that ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: period ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: on ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: evidence ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: stylistic ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: features ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: For ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: those ANALYSIS: DT DET determiner
+SURFACE_FORM: who ANALYSIS: WP PRON wh-pronoun, personal
+SURFACE_FORM: accept ANALYSIS: VB VERB verb, base form
+SURFACE_FORM: this ANALYSIS: DT DET determiner
+SURFACE_FORM: schema ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: Cratylus ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: ought ANALYSIS: MD VERB verb, modal auxiliary
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: belong ANALYSIS: VB VERB verb, base form
+SURFACE_FORM: relatively ANALYSIS: RB ADV adverb
+SURFACE_FORM: early ANALYSIS: RB ADV adverb
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: group ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: since ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: it ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: contains ANALYSIS: VBZ VERB verb, 3rd person singular present
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: classical ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: theory ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: Forms ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: but ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: lacks ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: late ANALYSIS: RB ADV adverb
+SURFACE_FORM: stylistic ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: features ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: It ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: might ANALYSIS: MD VERB verb, modal auxiliary
+SURFACE_FORM: therefore ANALYSIS: RB ADV adverb
+SURFACE_FORM: with ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: some ANALYSIS: DT DET determiner
+SURFACE_FORM: plausibility ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: be ANALYSIS: VB AUX verb, base form
+SURFACE_FORM: placed ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: close ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: phased ANALYSIS: VBD VERB verb, past tense
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: this ANALYSIS: DT DET determiner
+SURFACE_FORM: dating ANALYSIS: VBG VERB verb, gerund or present participle
+SURFACE_FORM: has ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: often ANALYSIS: RB ADV adverb
+SURFACE_FORM: been ANALYSIS: VBN AUX verb, past participle
+SURFACE_FORM: favoured ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: However ANALYSIS: RB ADV adverb
+SURFACE_FORM: thematic ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: links ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: interests ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: explored ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: late ANALYSIS: RB ADV adverb
+SURFACE_FORM: dialogues ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: like ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: Sophist ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: have ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: encouraged ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: some ANALYSIS: DT DET determiner
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: date ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: it ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: later ANALYSIS: RB ADV adverb
+SURFACE_FORM: Besides ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: manuscripts ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: preserve ANALYSIS: VB VERB verb, base form
+SURFACE_FORM: two ANALYSIS: CD NUM cardinal number
+SURFACE_FORM: passages ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: that ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: seem ANALYSIS: VB VERB verb, base form
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: be ANALYSIS: VB AUX verb, base form
+SURFACE_FORM: traces ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: superseded ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: first ANALYSIS: RB ADV adverb
+SURFACE_FORM: edition ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: dialogue ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: suggesting ANALYSIS: VBG VERB verb, gerund or present participle
+SURFACE_FORM: that ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: what ANALYSIS: WP PRON wh-pronoun, personal
+SURFACE_FORM: we ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: have ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: could ANALYSIS: MD VERB verb, modal auxiliary
+SURFACE_FORM: be ANALYSIS: VB AUX verb, base form
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: revised ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: edition ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: quite ANALYSIS: RB ADV adverb
+SURFACE_FORM: possibly ANALYSIS: RB ADV adverb
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: relatively ANALYSIS: RB ADV adverb
+SURFACE_FORM: late ANALYSIS: RB ADV adverb
+SURFACE_FORM: date ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: If ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: so ANALYSIS: RB ADV adverb
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: text ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: as ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: we ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: have ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: it ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: may ANALYSIS: MD VERB verb, modal auxiliary
+SURFACE_FORM: not ANALYSIS: RB PART adverb
+SURFACE_FORM: straightforwardly ANALYSIS: RB ADV adverb
+SURFACE_FORM: represent ANALYSIS: VB VERB verb, base form
+SURFACE_FORM: any ANALYSIS: DT DET determiner
+SURFACE_FORM: one ANALYSIS: CD NUM cardinal number
+SURFACE_FORM: period ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: plates ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: work ANALYSIS: NN NOUN noun, singular or mass
+

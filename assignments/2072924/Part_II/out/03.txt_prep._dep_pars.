@@ -1,0 +1,283 @@
+SURFACE_FORM: Plato ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: or ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: was ANALYSIS: VBD AUX verb, past tense
+SURFACE_FORM: an ANALYSIS: LS X list item marker
+SURFACE_FORM: Athenian ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: philosopher ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: during ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: Classical ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: period ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: Ancient ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: Greece ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: founder ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: Platonist ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: school ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: thought ANALYSIS: VBD VERB verb, past tense
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: Academy ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: first ANALYSIS: RB ADV adverb
+SURFACE_FORM: institution ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: higher ANALYSIS: JJR ADJ adjective, comparative
+SURFACE_FORM: learning ANALYSIS: VBG VERB verb, gerund or present participle
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: Western ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: world ANALYSIS: NNP PROPN noun, proper singular
+
+SURFACE_FORM: He ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: widely ANALYSIS: RB ADV adverb
+SURFACE_FORM: considered ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: pivotal ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: figure ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: history ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: Ancient ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: Greek ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: Western ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: philosophy ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: along ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: with ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: his ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: teacher ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: Socrates ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: his ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: most ANALYSIS: RBS ADV adverb, superlative
+SURFACE_FORM: famous ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: student ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: aristotle ANALYSIS: NNP PROPN noun, proper singular
+
+SURFACE_FORM: Plato ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: has ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: also ANALYSIS: RB ADV adverb
+SURFACE_FORM: often ANALYSIS: RB ADV adverb
+SURFACE_FORM: been ANALYSIS: VBN AUX verb, past participle
+SURFACE_FORM: cited ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: as ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: one ANALYSIS: CD NUM cardinal number
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: founders ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: Western ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: religion ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: spirituality ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: The ANALYSIS: DT DET determiner
+SURFACE_FORM: socalled ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: Neoplatonism ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: philosophers ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: like ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: Plotinus ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: Porphyry ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: greatly ANALYSIS: RB ADV adverb
+SURFACE_FORM: influenced ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: Christianity ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: through ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: Church ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: Fathers ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: such ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: as ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: augustine ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: Alfred ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: North ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: Whitehead ANALYSIS: VB VERB verb, base form
+SURFACE_FORM: once ANALYSIS: RB ADV adverb
+SURFACE_FORM: noted ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: safest ANALYSIS: JJS ADJ adjective, superlative
+SURFACE_FORM: general ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: characterization ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: European ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: philosophical ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: tradition ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: that ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: it ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: consists ANALYSIS: VBZ VERB verb, 3rd person singular present
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: series ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: footnotes ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: plato ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: Plato ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: was ANALYSIS: VBD AUX verb, past tense
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: innovator ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: written ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: dialogue ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: dialectic ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: forms ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: philosophy ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: Plato ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: also ANALYSIS: RB ADV adverb
+SURFACE_FORM: considered ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: founder ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: Western ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: political ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: philosophy ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: His ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: most ANALYSIS: RBS ADV adverb, superlative
+SURFACE_FORM: famous ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: contribution ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: theory ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: Forms ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: known ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: by ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: pure ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: reason ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: in ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: which ANALYSIS: WDT DET wh-determiner
+SURFACE_FORM: Plato ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: presents ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: a ANALYSIS: LS X list item marker
+SURFACE_FORM: solution ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: problem ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: universals ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: known ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: as ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: platonist ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: also ANALYSIS: RB ADV adverb
+SURFACE_FORM: ambiguously ANALYSIS: RB ADV adverb
+SURFACE_FORM: called ANALYSIS: VBD VERB verb, past tense
+SURFACE_FORM: either ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: Platonic ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: realism ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: or ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: Platonic ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: idealism ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: He ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: also ANALYSIS: RB ADV adverb
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: namesake ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: Platonic ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: love ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: Platonic ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: solids ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: His ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: own ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: most ANALYSIS: RBS ADV adverb, superlative
+SURFACE_FORM: decisive ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: philosophical ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: influences ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: are ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: usually ANALYSIS: RB ADV adverb
+SURFACE_FORM: thought ANALYSIS: VBD VERB verb, past tense
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: have ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: been ANALYSIS: VBN AUX verb, past participle
+SURFACE_FORM: along ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: with ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: Socrates ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: presocratics ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: Pythagoras ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: Heraclitus ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: Parmenides ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: although ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: few ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: his ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: predecessors ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: works ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: remain ANALYSIS: VB VERB verb, base form
+SURFACE_FORM: extant ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: and ANALYSIS: CC CCONJ conjunction, coordinating
+SURFACE_FORM: much ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: what ANALYSIS: WP PRON wh-pronoun, personal
+SURFACE_FORM: we ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: know ANALYSIS: VB VERB verb, base form
+SURFACE_FORM: about ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: these ANALYSIS: DT DET determiner
+SURFACE_FORM: figures ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: today ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: derives ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: from ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: Plato ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: himself ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: Unlike ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: work ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: nearly ANALYSIS: RB ADV adverb
+SURFACE_FORM: all ANALYSIS: DT DET determiner
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: his ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: contemporaries ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: plates ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: entire ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: body ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: work ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: is ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: believed ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: to ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: have ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: survived ANALYSIS: VBD VERB verb, past tense
+SURFACE_FORM: intact ANALYSIS: JJ ADJ adjective
+SURFACE_FORM: for ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: over ANALYSIS: RB ADV adverb
+SURFACE_FORM: years ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: Although ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: their ANALYSIS: PRP$ DET pronoun, possessive
+SURFACE_FORM: popularity ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: has ANALYSIS: VBZ AUX verb, 3rd person singular present
+SURFACE_FORM: fluctuated ANALYSIS: VBN VERB verb, past participle
+SURFACE_FORM: over ANALYSIS: RB ADV adverb
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: years ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: works ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: of ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: Plato ANALYSIS: NNP PROPN noun, proper singular
+SURFACE_FORM: have ANALYSIS: VBP AUX verb, non-3rd person singular present
+SURFACE_FORM: never ANALYSIS: RB ADV adverb
+SURFACE_FORM: been ANALYSIS: VBN AUX verb, past participle
+SURFACE_FORM: without ANALYSIS: IN ADP conjunction, subordinating or preposition
+SURFACE_FORM: readers ANALYSIS: NNS NOUN noun, plural
+SURFACE_FORM: since ANALYSIS: IN SCONJ conjunction, subordinating or preposition
+SURFACE_FORM: the ANALYSIS: DT DET determiner
+SURFACE_FORM: time ANALYSIS: NN NOUN noun, singular or mass
+SURFACE_FORM: they ANALYSIS: PRP PRON pronoun, personal
+SURFACE_FORM: were ANALYSIS: VBD AUX verb, past tense
+SURFACE_FORM: written ANALYSIS: VBN VERB verb, past participle
+
