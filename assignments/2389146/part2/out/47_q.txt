@@ -1,0 +1,1 @@
+is (ROOT) there (expl) anyone (attr) who (nsubj) truly (advmod) enjoys (relcl) getting (xcomp) in (prep) their (poss) base (compound) miles (pobj) for (prep) training (pobj)

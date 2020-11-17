@@ -1,0 +1,1 @@
+compression (compound) rebound (nsubj) are (ROOT) important (amod) me (attr) too (advmod) but (cc) lockout (amod) feature (compound) int (nmod) great (amod) complication (compound) producer (attr) that (nsubj) will (aux) help (relcl) lot (compound) peddling (dobj) in (prep) long (amod) trip (pobj) flat (amod) streets (dobj). i (nsubj) m (ROOT) wrong (acomp)

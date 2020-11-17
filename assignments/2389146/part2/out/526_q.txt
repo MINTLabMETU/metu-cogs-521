@@ -1,0 +1,1 @@
+chris (compound) King (nsubj) does (aux) hold (ROOT) much (amod) value (dobj) for (dative) me (pobj). me (npadvmod) they (nsubj) are (aux) being (ROOT) . (punct)

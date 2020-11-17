@@ -1,0 +1,1 @@
+have (ROOT) no (det) idea (dobj) where (pobj) that (nsubj) came (relcl) from (prep) or (cc) why (conj)

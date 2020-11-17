@@ -1,0 +1,1 @@
+yes (intj) lol (ROOT). thread (nsubj) got (ROOT) little (amod) feisty (dobj). my (poss) apologies (ROOT) anyone (nsubj) have (aux) offended (relcl) with (prep) my (poss) comments (pobj). all (nsubj) have (ROOT) our (poss) opinions (dobj) and (cc) know (conj) mine (nsubjpass) are (auxpass) not (neg) suited (ccomp) all (det) riders (dobj)

@@ -1,0 +1,1 @@
+interesting (amod) way (nsubj) attach (ROOT) the (det) saddle (dobj) . (punct)

@@ -1,0 +1,1 @@
+so (advmod) this (nsubjpass) was (auxpass) acknowledged (ROOT) problem (oprd). do (ROOT) you (nsubj) et (compound) al (punct). get (aux) upgrade (ROOT) the (det) new (amod) frames (dobj) once (advmod) there (advcl) out (advmod)

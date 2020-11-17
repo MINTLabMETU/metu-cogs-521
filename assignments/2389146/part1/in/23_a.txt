@@ -1,0 +1,7 @@
+
+Do you like the  of fixies, or are you actually intending to ride with a fixed gear (i.e. no coasting)? Generally speaking, getting a lot of speeds out of a fixie is very difficult because complex shifting mechanisms tend to *need* some form of slack in order to function well. If you built up a modern derailleur bike but intentionally seized the freewheel, the cassette would yank on the lower chain the moment you stopped putting forward torque on the cranks, which could have exciting effects like dropping the chain and/or ripping the rear derailleur off the bike.
+
+If you simply want a bike that doesn't have big external sprocket clusters and tensioners, internal-gear hubs are an option.
+
+To my knowledge, the only practical way to build up a multi-speed fixed-gear bike is to use a fixed-gear internal hub, and as far as I know, the most speeds available is 3 (i.e. the Sturmey-Archer S3X hub). I'm not super familiar with these mechanisms, but they seem to have a reputation for sloppy function and fragility.
+					

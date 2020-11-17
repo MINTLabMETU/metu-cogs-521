@@ -1,0 +1,1 @@
+they (nsubj) are (ROOT) everywhere (advmod). know (ROOT) this (det) true (amod) read (ccomp) it (dobj) the (det) interwebz (npadvmod). now (advmod) about (ROOT) this (det) misguided (amod) predilection (pobj) of (prep) yours (pobj) for (prep) road (compound) bikes (pobj). oh (intj) never (neg) mind (ROOT)

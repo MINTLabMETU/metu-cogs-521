@@ -1,0 +1,1 @@
+want (ROOT) get (xcomp) in (prep) and (cc) out (conj) of (prep) the (det) austrian (amod) train (pobj) without (prep) discussing (pcomp) if (mark) this (nsubj) is (ccomp) bike (attr) or (cc) not (punct). any (det) suggestions (ROOT)

@@ -1,0 +1,1 @@
+hubbub (nmod) right (amod) drop (nsubj) and (cc) barend (compound) shifter (conj) left (ROOT). wo (aux) nt (neg) doing (ROOT) this (dobj) right (advmod) away (advmod) just (advmod) curious (amod) see (dep) if (mark) this (nsubj) is (advcl) even (advmod) possible (acomp). thanks (ROOT)

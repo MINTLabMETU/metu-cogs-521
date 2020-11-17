@@ -1,0 +1,1 @@
+after (ROOT) not (neg) posting (pcomp) for (prep) over (prep) mrs (dep) . (punct)

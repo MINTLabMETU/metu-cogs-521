@@ -1,0 +1,1 @@
+hi (intj) jeeps (nsubj) You (nsubj) would (aux) better (relcl) off (prt) starting (advcl) new (amod) thread (dobj) ask (ROOT) your (poss) questions (dobj). most (nsubj) of (prep) our (poss) regular (amod) posters (pobj) do (aux) nt (neg) look (ROOT) in (prep) this (det) thread (pobj). pm (ROOT) me (dobj) if (mark) you (nsubj) need (advcl) help (dobj)

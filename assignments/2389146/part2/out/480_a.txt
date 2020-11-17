@@ -1,0 +1,1 @@
+warm (amod) Planet (compound) Bikes (nsubj) sell (ROOT) Birdies (dobj). do (aux) they (nsubj) have (ROOT) the (det) newest (amod) models (dobj). also (advmod) do (aux) they (nsubj) have (ROOT) all (predet) the (det) parts (nsubj) fireplace (ccomp) parts (dobj) for (prep) birds (pobj) or (cc) is (conj) it (nsubj) hard (advmod) find (acomp)

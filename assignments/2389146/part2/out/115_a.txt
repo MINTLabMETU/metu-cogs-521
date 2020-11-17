@@ -1,0 +1,1 @@
+guess (compound) goole (nsubj) understands (ROOT) Tern (nsubj) has (aux) monopoly (ccomp) these (det) Thanks (compound) Yan (dobj)

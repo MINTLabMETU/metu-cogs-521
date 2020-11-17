@@ -1,0 +1,1 @@
+forgot (compound) mention (ROOT) that (mark) you (nsubj) can (aux) remove (ccomp) those (det) rear (amod) brake (compound) brake (nmod) mounting (amod) posts (dobj) with (prep) crescent (amod) wrench (pobj). the (det) front (amod) ones (nsubj) however (advmod) are (ROOT) not (neg) removable (acomp)

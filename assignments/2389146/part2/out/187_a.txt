@@ -1,0 +1,1 @@
+whatever (dobj) China (nsubj) is (aux) doing (csubj) and (cc) department (compound) store (compound) bikes (nsubj) are (ROOT) not (neg) gauge (acomp) of (prep) the (det) industry (pobj). the (det) crap (amod) wal (compound) - (punct) mart (nsubj) is (ROOT) just (advmod) that (attr). crap (ROOT)

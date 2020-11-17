@@ -1,0 +1,1 @@
+the (det) Giant (amod) toughroad (nsubj) is (ROOT) fast (amod) flatter (compound) roadie (attr) but (cc) with (prep) off (nmod) - (punct) road (pobj) abilities (pobj). great (amod) technological (amod) advancement (ROOT) in (prep) cycling (pobj)

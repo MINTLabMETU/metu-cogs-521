@@ -1,0 +1,1 @@
+how (advmod) so (ROOT). take (ROOT) away (advmod) rear (amod) suspension (compound) models (dobj) there (advmod) int (amod) whole (amod) load (dobj) of (prep) difference (pobj) between (prep) MTB (pobj) and (cc) hybrids (conj) past (prep) tires (pobj) and (cc) gearing (conj) which (nsubj) are (relcl) easily (advmod) customisable (acomp)

@@ -1,0 +1,1 @@
+and (cc) you (nsubj) know (ROOT) this (dobj) how (advmod). did (aux) Giant (nsubj) announce (ROOT) this (dobj)

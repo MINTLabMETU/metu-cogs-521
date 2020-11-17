@@ -1,0 +1,1 @@
+he (npadvmod) he (nsubj) met (ROOT) JamesSwift (compound) captain (dobj) last (amod) week (npadvmod) and (cc) had (aux) laugh (conj) how (advmod) tall (acomp) my (poss) bike (nsubj) looked (ccomp) compared (prep) his (intj) Yes (intj) it (nsubj) is (ROOT) . (punct)

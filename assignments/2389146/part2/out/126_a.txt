@@ -1,0 +1,1 @@
+dint (nsubj) share (dobj) the (det) picture.someone (nsubj) else (advmod) did (ROOT). hopefully (advmod) you (nsubj) can (aux) post (ROOT) your (poss) pics (dobj) soon (advmod)

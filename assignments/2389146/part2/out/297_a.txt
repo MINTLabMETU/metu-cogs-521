@@ -1,0 +1,1 @@
+agree (ROOT). looks (ROOT) classy (acomp). so (advmod) what (attr) are (ROOT) the (det) specs (nsubj) your (poss) custom (nsubj) Swift (amod) drivetrain (compound) wheels (compound) bars (nsubj) saddle (ROOT) accessories (dobj) etc (advmod). please (intj) tell (ROOT)

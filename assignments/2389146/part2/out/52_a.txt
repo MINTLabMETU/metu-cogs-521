@@ -1,0 +1,1 @@
+please (intj) stop (nsubj) have (aux) been (aux) trying (ROOT) not (neg) press (compound) buy (dobj) for (prep) the (det) last (amod) months (pobj)

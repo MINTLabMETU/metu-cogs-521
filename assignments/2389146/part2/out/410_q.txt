@@ -1,0 +1,1 @@
+for (ROOT) those (pobj) of (prep) who (nsubj) are (relcl) budget (attr) minded (acl). cable (nsubj) stop (ROOT) such (amod) as (prep) this (det) one (pobj)

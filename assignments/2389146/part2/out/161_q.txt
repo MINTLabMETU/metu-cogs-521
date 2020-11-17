@@ -1,0 +1,1 @@
+was (ROOT) only (advmod) fad (compound) gimmick (compound) boost (compound) bike (attr) sales.whats (nsubj) the (det) latest (amod) greatest (amod) next (amod) road (compound) bike (compound) wheel (compound) size (nsubj) going (aux) be (advcl)

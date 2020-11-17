@@ -1,0 +1,1 @@
+have (ROOT) ish (compound) Trek (dobj) with (prep) santis (pobj) and (cc) they (nsubj) do (aux) nt (neg) compare (conj) newer (amod) brakes (dobj) even (advmod) with (prep) new (amod) good (amod) quality (compound) pads (pobj). but (cc) maybe (advmod) being (csubj) years (attr) old (amod) has (ROOT) something (dobj) do (acl) with (prep) that (pobj)

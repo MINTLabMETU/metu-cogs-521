@@ -1,0 +1,1 @@
+yes (intj) say (ROOT) there (expl) was (ccomp) no (det) brain (attr) involved (acl) in (prep) that (det) response (pobj)

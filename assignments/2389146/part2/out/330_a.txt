@@ -1,0 +1,1 @@
+all (predet) this (det) planning (nsubj) assume (ROOT) that (mark) the (det) test (compound) bike (nsubj) is (ccomp) right (acomp) i.e (acomp). no (det) problems (nsubjpass) are (auxpass) detected (ROOT) this (det) test (compound) bike (nsubj) that (nsubj) need (relcl) fixed (acomp) have (ccomp) the (det) bike (nsubj) certified (ccomp) . (punct)

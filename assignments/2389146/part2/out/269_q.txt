@@ -1,0 +1,1 @@
+. and (cc) stem (ROOT) riser (dobj). is (ROOT) it (nsubj) still (advmod) the (det) nashwan (amod) front (amod) rack (attr). what (det) material (dobj) did (aux) you (nsubj) use (ROOT) for (prep) the (det) hook (pobj)

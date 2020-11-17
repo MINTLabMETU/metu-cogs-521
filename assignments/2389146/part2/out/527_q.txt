@@ -1,0 +1,1 @@
+so (advmod) will (ROOT) my (poss) fsa (nsubj) and (cc) it (nsubj) cost (conj) of (prep) the (det) price (pobj)

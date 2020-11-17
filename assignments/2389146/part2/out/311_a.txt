@@ -1,0 +1,1 @@
+think (ROOT) it (nsubj) looks (ccomp) cool.the (dobj) gentleman (compound) swift (dobj)

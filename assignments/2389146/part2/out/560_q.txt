@@ -1,0 +1,1 @@
+looks (ROOT) good (amod) mine (dobj) will (dep) here (advmod) today (npadvmod). are (ROOT) the (det) tires (nsubj) already (advmod) set (acl) up (prt) as (prep) tuneless (pobj) or (cc) do (aux) they (nsubj) have (conj) tubes (dobj). i (nsubj) ve (aux) never (neg) had (ROOT) tuneless (dobj) so (advmod) Ill (nsubj) have (aux) figure (ROOT) all (predet) that (dobj) out (prt)

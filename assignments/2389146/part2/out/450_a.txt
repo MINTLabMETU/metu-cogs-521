@@ -1,0 +1,1 @@
+just (advmod) received (ROOT) my (poss) IX (dobj) NS (npadvmod) also (advmod) did (aux) you (nsubj) get (ROOT) the (det) silver (compound) alloy (compound) pedals (dobj). mine (nsubj) only (advmod) came (ROOT) with (prep) the (det) black (amod) plastic (compound) pedals (pobj). did (aux) anyone (nsubj) else (advmod) received (ROOT) the (det) alloy (compound) pedals (dobj)

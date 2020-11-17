@@ -1,0 +1,1 @@
+you (nsubj) forgot (ROOT) one (nummod) major (amod) characteristics (dobj) it (nsubj) is (relcl) the (det) ultimate (amod) dream (compound) bike (attr) . (punct)

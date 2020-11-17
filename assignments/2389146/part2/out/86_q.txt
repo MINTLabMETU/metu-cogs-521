@@ -1,0 +1,1 @@
+and (cc) yet (advmod) most (nsubj) of (prep) the (det) mountain (compound) bikers (pobj) see (ROOT) roads (nsubj) as (prep) opposed (amod) trails (pobj) are (aux) moving (ccomp) along (prep) mph (pobj) or (cc) slower (conj)

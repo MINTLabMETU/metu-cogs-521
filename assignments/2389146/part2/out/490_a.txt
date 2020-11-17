@@ -1,0 +1,1 @@
+have (aux) nt (neg) heard (ROOT) of (prep) anyone (pobj) doing (acl) that (det) bike (dobj) but (cc) imagine (conj) the (det) same (amod) stuff (nsubj) people (nsubj) use (relcl) their (poss) cars (dobj) should (aux) work (ccomp)

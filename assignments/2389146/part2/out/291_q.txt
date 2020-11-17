@@ -1,0 +1,1 @@
+if (mark) you (nsubj) want (advcl) get (xcomp) serious (acomp) consider (ROOT) drop (compound) bars (dobj) or (cc) tears (conj). my (poss) Swift (nsubj) is (ROOT) awesome (acomp) with (prep) drop (compound) bars (pobj). ill (nsubj) never (neg) go (ROOT) back (advmod) flat (amod) bars (dobj)

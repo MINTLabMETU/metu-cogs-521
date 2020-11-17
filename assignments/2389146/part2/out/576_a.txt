@@ -1,0 +1,1 @@
+you (nsubj) ever (advmod) get (ROOT) this (nsubj) worked (ccomp) out (prt)

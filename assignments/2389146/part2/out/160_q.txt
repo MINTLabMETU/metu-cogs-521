@@ -1,0 +1,1 @@
+someone (nsubj) asked (ROOT) if (mark) it (nsubj) was (advcl) possible (acomp) convert (ccomp) mm (dobj) hub (compound) Boost (appos) x (intj). the (det) answer (nsubj) is (ROOT) yes (punct). if (mark) the (det) hub (nsubj) itself (appos) is (ROOT) convertible (acomp) and (cc) many (amod) midnight (compound) end (compound) hubs (nsubj) are (conj)

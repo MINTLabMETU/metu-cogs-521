@@ -1,0 +1,1 @@
+its (nsubj) better (advmod) ask (ROOT) questions (dobj) about (prep) your (poss) first (amod) bike (pobj) BEFORE (mark) you (nsubj) buy (advcl) it (dobj) . (punct)

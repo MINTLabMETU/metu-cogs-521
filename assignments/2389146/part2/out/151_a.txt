@@ -1,0 +1,1 @@
+would (aux) n't (neg) it (nsubj) depend (ROOT) whether (mark) the (det) hub (nsubj) was (ccomp) convertible (acomp)

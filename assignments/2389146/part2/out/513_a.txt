@@ -1,0 +1,1 @@
+it (nsubj) was (ROOT) this (det) same (amod) thread (attr) see (ccomp) post (dobj). name (ROOT) of (prep) JulianEdgar (pobj) . (punct)

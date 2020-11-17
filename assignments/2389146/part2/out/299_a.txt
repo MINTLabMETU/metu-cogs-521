@@ -1,0 +1,1 @@
+will (aux) do (ROOT) when (advmod) it (nsubj) gets (advcl) here (advmod). cross (ROOT) your (poss) fingers (dobj) that (npadvmod) its (poss) soon (advmod)

@@ -1,0 +1,1 @@
+are (ROOT) there (expl) threads (attr) with (prep) these (det) type (pobj) of (prep) failures (pobj) in (prep) German (pobj). other (amod) languages (ROOT). this (nsubj) is (ROOT) troubling (attr). thanks (ROOT) Yan (npadvmod)

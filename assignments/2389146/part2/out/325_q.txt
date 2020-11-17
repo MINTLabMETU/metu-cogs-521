@@ -1,0 +1,1 @@
+can (aux) expect (ROOT) the (det) frame (nsubj) accomodate (ccomp) my (poss) intentions (dobj) of (prep) making (pcomp) it (nsubj) competently (advmod) equipped (ccomp) roadie (dobj). without (prep) front (pobj) derailed (ROOT) though (mark) Opinions (nsubjpass) and (cc) thoughts (conj) are (auxpass) greatly (advmod) appreciated (advcl)

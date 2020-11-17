@@ -1,0 +1,1 @@
+. i (nsubj) m (ROOT) just (advmod) about (advmod) ready (amod) pull (xcomp) out (prep) of (prep) this (pobj) and (cc) give (conj) my (poss) soul (dobj) and (cc) few (amod) limbs (compound) brompton (ROOT)

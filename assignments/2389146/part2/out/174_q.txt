@@ -1,0 +1,1 @@
+just (advmod) found (ROOT) Giant (nsubj) their (poss) sitelooks (ccomp) like (mark) they (nsubj) are (aux) still (advmod) making (advcl) them (dobj) httpswww.giantbicycles.comusbi.ikesinch (punct)

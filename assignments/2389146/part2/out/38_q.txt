@@ -1,0 +1,1 @@
+or (cc) like (ROOT) suggesting (pcomp) everyone (nsubj) should (aux) drive (ccomp) pickup (dobj) because (mark) you (nsubj) never (neg) know (advcl) when (advmod) doull (amod) need (nsubj) haul (ccomp) some (det) wood (dobj) or (cc) appliance (conj)

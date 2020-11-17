@@ -1,0 +1,1 @@
+so (advmod) will (aux) mm (nsubj) work (ROOT) as (advmod) well (advmod) or (cc) will (aux) there (advmod) fit (conj) problem (dobj)

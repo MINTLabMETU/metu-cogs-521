@@ -1,0 +1,6 @@
+
+That is the standard road bike theory on suspension, which is 1990s.  Well designed suspension that takes into account power induced 
+suspension compression where the suspension pivot is close to the upper chain line do not need to be locked out.  The Birdy and Downtube FS9 address this by moving the pivot up toward the chainline, the Brompton, Moulton do not.
+
+The benefit of suspension on small wheels is to cut down on the harshness of small stiff frames and wheels.  Putting a lockout on defeats the whole purpose, may as well go rigid.
+					

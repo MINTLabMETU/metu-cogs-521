@@ -1,0 +1,21 @@
+
+Hi big boy phil
+
+Very close in my opinion.  See my posts/pics on page 33 (#805, #813) and page 34 (#828, #831).  You can certainly run Ultegra components on most of it.  Here are the compromises you may have to make.
+
+(0) You'll need the aluminium XOOTR Swift frameset with the rear derailer hanger (unless you put in a special order with Peter =>  or the Center for Appropriate Transport =>  if you're going down the all steel path).
+
+(1) No front derailleur - although you could fit a double chainring and shift from the big to little chainring by hand - there's a reference to that somewhere in this thread and it's the way they used to do it a long time ago.
+
+(2) Gearing:  You're going to need either (a) much larger chainrings than the normal 53/39 crankset or (b) much smaller sprockets.  Bike Friday sell sell large chainrings; not sure if they'll fit the Ultegra cranks.  TA Specialities also provide outsize chainrings.  Alternatively, you could run Shimano's Capreo rear cassette (9-26 teeth). Bike Friday and Moulton have modifed this cassette so it runs from 9-28 or 9-32.  However, if you do this, you'll need the Capreo rear hub.  If you use just one front chainring, the Ultegra short cage derailer should be adequate; if you end up with two chainrings, you'll need the long cage version.
+
+(3) Brakes.  I don't think that Shimano's dual pivot brakes will fit.  I'm not at home so I can't check.  If you decide to run with drop bars and Shimano Ultegra 'brifters', then you have 3 options to use V brakes with these levers. (a) use a (inline?) Travel Agent (b) use Tektro mini v-brakes (c) use one of the new low profile cantilevers.  I'd use Tektro's top of the line mini Vs if I was going down this path.  I've read mixed reviews about Travel Agents and the low profile cantis from Avid, Tektro, Cane Creek, when fitted as a rear brake, tend to catch your heel when your pedaling.
+
+The other option is to use Diacompe/Diatech 287 V brake specific brake levers with a bar end shifter.  See my post above (#831). You might also like to check out the information on Alex Wetmore's bicycle pages => , especially about small wheeled bikes/folders.
+
+You can build up wheels on narrow rims (Alex, Velocity, Sun) and use narrow, high pressure tyres from either Schwalbe or Continental.
+
+Look forward to seeing how you go.
+
+OziSwift
+					

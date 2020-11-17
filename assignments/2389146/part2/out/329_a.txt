@@ -1,0 +1,1 @@
+what (attr) is (ROOT) the (det) black (amod) thing (nsubj) the (det) sterile (relcl) below (prep) the (det) stem (pobj)

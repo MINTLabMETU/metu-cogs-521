@@ -1,0 +1,1 @@
+the (det) files (nsubj) has (aux) returned (ROOT) and (cc) this (det) thread (nsubj) continues (conj). life (nsubj) is (ROOT) good (acomp)

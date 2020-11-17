@@ -1,0 +1,1 @@
+omg (ROOT). this (nsubj) is (ROOT) from (prep) ago.and (pobj) its (poss) the (det) newer (amod) Tern (compound) Cargo (compound) node (npadvmod)

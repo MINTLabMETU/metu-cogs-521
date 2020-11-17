@@ -1,0 +1,1 @@
+based (prep) the (det) preceding (amod) update (pobj) it (nsubj) probably (advmod) was (ROOT) ready (amod) week (attr) or (cc) so (nummod) before (conj) the (det) last (amod) update (pobj) the (det) updates (nsubj) being (acl) fortnightly (advmod) and (cc) progress (conj) being (xcomp) as (mark) it (nsubj) comes (advcl)

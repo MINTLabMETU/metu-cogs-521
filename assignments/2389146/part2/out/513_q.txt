@@ -1,0 +1,1 @@
+think (ROOT) so (advmod) search (ccomp) this (det) forum (nsubj) turn (ccomp) up (prt) that (det) thread (dobj). he (nsubj) does (aux) post (ROOT) here (advmod) any (advmod) more (dobj) for (prep) years (pobj). ca (aux) nt (neg) think (ROOT) of (prep) helpful (amod) search (compound) terms (pobj) except (prep) birds (pobj)

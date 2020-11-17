@@ -1,0 +1,1 @@
+emotional (ROOT). you (nsubj) mean (parataxis) laughing (ROOT) the (det) absurdity (dobj) of (prep) your (poss) post (pobj). thanks (ROOT) for (prep) confirming (pcomp) that (mark) you (nsubj) were (aux) just (advmod) trolling (ccomp) and (cc) not (neg) having (conj) psychotic (amod) break (dobj)

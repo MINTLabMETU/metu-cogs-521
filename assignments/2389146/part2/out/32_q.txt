@@ -1,0 +1,1 @@
+could (aux) anyone (nsubj) recommend (ROOT) good (amod) tutorial (dobj) finding (acl) the (det) right (amod) seat (dobj) height (dobj) for (prep) each (det) rider (pobj). tried (ROOT) looking (xcomp) through (prep) the (det) first (amod) post (pobj) but (cc) the (det) few (amod) links (nsubj) clicked (conj) all (dobj) gave (dep) errors (dobj)

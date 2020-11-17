@@ -1,0 +1,1 @@
+probably (advmod) SturmeyArcher (compound) hub (nsubj) could (aux) used (ROOT) as (advmod) well (advmod) and (cc) for (prep) whole (amod) lot (pobj) less (amod) cost (pobj). 

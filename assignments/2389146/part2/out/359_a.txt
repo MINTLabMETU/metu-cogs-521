@@ -1,0 +1,1 @@
+the (det) SR (compound) skin (nsubjpass) was (auxpass) held (ROOT) together (advmod) rivets (oprd) and (cc) screws (nmod) and (cc) mechanical (conj) fasteners (conj) not (neg) welded (acl)

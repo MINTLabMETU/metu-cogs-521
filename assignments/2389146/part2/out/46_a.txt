@@ -1,0 +1,1 @@
+my (poss) guess (nsubj) is (ROOT) that (mark) you (nsubj) are (ccomp) smart (acomp) enough (advmod) understand (ccomp) the (det) difference (dobj) between (prep) riding (pcomp) for (prep) fun (pobj) and (cc) training (conj) yet (cc) could (aux) wrong (ROOT)

@@ -1,0 +1,1 @@
+ca (ROOT) nt (neg) its (dep) across (prep) the (det) country (pobj). no (det) one (nsubj) hear (ROOT) me (nsubj) has (ccomp) which (nsubj) is (ccomp) what (nsubj) want (ccomp)

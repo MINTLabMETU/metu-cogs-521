@@ -1,0 +1,1 @@
+and (cc) they (nsubj) are (ROOT) heavy (acomp) like (prep) big (amod) rock (pobj)

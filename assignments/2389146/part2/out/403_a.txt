@@ -1,0 +1,1 @@
+my (poss) wife (ROOT) and (cc) are (conj) fans (attr) of (prep) Terry (compound) saddles (compound) Fly (pobj) and (cc) Butterfly (conj). if (mark) you (nsubj) are (advcl) patient (acomp) you (nsubj) can (aux) find (ROOT) them (nsubj) sale (ccomp). although (mark) never (neg) for (ROOT) . (punct)

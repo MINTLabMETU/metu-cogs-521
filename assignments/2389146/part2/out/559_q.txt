@@ -1,0 +1,1 @@
+well (intj) it (nsubj) arrived (ROOT) tonight (npadvmod). front (amod) wheel (nsubj) and (cc) pedals (conj) installed (ROOT). ready (amod) roll (ROOT) hopefully (advmod) tomorrow (npadvmod). its (poss) currently (advmod) raining (nsubj) here (advmod) so (advmod) hope (ROOT) it (nsubj) dries (ccomp) out (prt) enough (amod) ride (dobj). a (ROOT)

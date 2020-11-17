@@ -1,0 +1,1 @@
+this (det) thread (nsubj) should (aux) also (advmod) called (ROOT). apostrophe (nsubj) required (ROOT). and (cc) if (mark) I (nsubj) m (ROOT) recalling (xcomp) correctly (advmod) one (dobj) of (prep) their (poss) movie (compound) titles (pobj) from (prep)

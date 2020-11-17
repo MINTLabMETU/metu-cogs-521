@@ -1,0 +1,1 @@
+try (ROOT) turning (xcomp) the (det) stem (compound) degrees (dobj) around (advmod) and (cc) have (aux) it (nsubj) pointed (conj) towards (prep) you (pobj)

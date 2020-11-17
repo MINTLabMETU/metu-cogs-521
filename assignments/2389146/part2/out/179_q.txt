@@ -1,0 +1,1 @@
+plus (cc) bikes (nsubjpass) have (aux) been (auxpass) phased (ROOT) out (prt) for (prep) the (det) most (amod) part (pobj). manufactures (nsubj) have (aux) gone (ccomp) offering (xcomp) them (dobj) as (prep) with (prep) capability (nsubj) leaving (pcomp) it (dobj) up (prt) the (det) consumer (pobj) decided (ROOT)

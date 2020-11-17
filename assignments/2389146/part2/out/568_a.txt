@@ -1,0 +1,1 @@
+love (ROOT) what (dobj) you (nsubj) have (ccomp) here (advmod). what (det) wheels (nsubj) and (cc) tires (conj) do (aux) you (nsubj) have (ROOT) the (det) Trek (dobj) . (punct)

@@ -1,0 +1,1 @@
+in (prep) the (det) past (pobj) Tern (nsubj) said (ROOT) turn (ccomp) the (det) bike (dobj) into (prep) the (det) local (amod) dealer (pobj). then (advmod) they (nsubj) had (ccomp) the (det) bike (dobj) and (cc) the (det) evidence (conj) and (cc) the (det) injured (amod) rider (conj) did (ROOT) n't (neg) . (punct)

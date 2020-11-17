@@ -1,0 +1,1 @@
+the (det) extrasteps (nsubj) are (ROOT) American (amod) humor (attr)

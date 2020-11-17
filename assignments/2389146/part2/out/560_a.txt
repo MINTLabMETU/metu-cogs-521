@@ -1,0 +1,1 @@
+am (ROOT) not (neg) sure (acomp) being (xcomp) new (acomp) that (det) technology (nsubj). but (cc) think (ROOT) so (advmod)

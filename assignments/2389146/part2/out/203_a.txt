@@ -1,0 +1,1 @@
+i (nsubj) m (ROOT) thinking (compound) years (dobj)

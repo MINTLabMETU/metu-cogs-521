@@ -1,0 +1,1 @@
+with (prep) the (det) tech (pobj) they (nsubj) have (relcl) now (advmod) AND (cc) their (poss) own (amod) space (conj) they (nsubj) can (aux) weld (ROOT) titanium (compound) frames (dobj) for (prep) any (det) company (pobj)

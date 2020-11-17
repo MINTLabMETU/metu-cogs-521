@@ -1,0 +1,1 @@
+way (npadvmod) over (prep) the (det) top (pobj) yet (advmod) people (nsubj) pay (ROOT). only (advmod) money (nsubj) guess (ROOT)

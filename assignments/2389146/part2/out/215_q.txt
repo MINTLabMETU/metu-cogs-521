@@ -1,0 +1,1 @@
+minimalism (nsubj) is (ROOT) big (acomp) now (advmod). in (ROOT) houses (pobj). . . in (ROOT) running (amod) shoes (pobj). . . who (nsubj) knows (ROOT). maybe (advmod) brakes (nsubj) that (nsubj) are (relcl) almost (advmod) not (neg) there (expl) will (aux) make (ROOT) comeback (dobj) too (advmod)

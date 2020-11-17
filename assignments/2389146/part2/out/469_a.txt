@@ -1,0 +1,1 @@
+thanks (ROOT). final (amod) mod (nsubj) would (aux) set (ROOT) of (prep) wheels (pobj). however (advmod) Ill (nsubj) need (ROOT) use (dobj) skinny (amod) tyres (dobj) which (nsubj) could (aux) nt (neg) as (advmod) durable (relcl)

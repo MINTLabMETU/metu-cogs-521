@@ -1,0 +1,1 @@
+year (npadvmod) old (amod) thread (ROOT) but (cc) were (aux) V (compound) brakes (nsubj) declared (ROOT) the (det) winner (dobj) in (prep) or (cc) so (conj). excepting (nsubj) of (prep) course (pobj) cross (ROOT) bikes (dobj) and (cc) touring (conj) bikes (dobj) due (oprd) the (det) leverage (compound) ratios (pobj)

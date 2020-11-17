@@ -1,0 +1,1 @@
+wish (ROOT) that (mark) inch (compound) bikes (nsubj) with (prep) mm (compound) spacing (pobj) would (aux) come (ccomp) back (advmod) from (prep) the (det) dead (pobj). there (expl) is (ROOT) nothing (attr) wrong (amod) with (prep) inch (compound) wheels (pobj) and (cc) mm (compound) rear (amod) spacing (conj)

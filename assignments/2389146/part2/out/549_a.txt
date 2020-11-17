@@ -1,0 +1,1 @@
+ers (nsubj) are (ROOT) awesome (acomp). like (ROOT) them (pobj). also (advmod) like (ROOT) ers (pobj). love (ROOT) all (dobj) of (prep) it (pobj)

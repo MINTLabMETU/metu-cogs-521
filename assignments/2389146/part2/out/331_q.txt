@@ -1,0 +1,1 @@
+i (nsubj) m (ROOT) not (neg) if (mark) things (nsubj) like (prep) the (det) shotpeened (amod) finish (pobj) and (cc) Ti (compound) seaport (conj) are (ccomp) for (prep) every (det) bike (pobj) although (mark) would (aux) assume (advcl) so (advmod)

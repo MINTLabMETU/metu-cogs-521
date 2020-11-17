@@ -1,0 +1,1 @@
+any (det) chance (ROOT) Durban (nsubjpass) is (auxpass) made (relcl) by (agent) Tern (pobj) as (advmod) well (advmod). heres (ROOT) somebody (nsubj) selling (ccomp) one (dobj) with (prep) snapped (amod) frame (compound) CL (pobj) near (prep) me (pobj) httpsinlandempire.craigslist.org (nummod) .. (punct) html (npadvmod)

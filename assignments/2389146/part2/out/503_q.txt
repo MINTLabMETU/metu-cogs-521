@@ -1,0 +1,1 @@
+is (ROOT) the (det) Mark (compound) worth (acomp) getting (xcomp) for (prep) or (cc) is (conj) that (nsubj) too (advmod) much (advmod) and (cc) or (cc) better (conj) get (dep) Mark (dobj)

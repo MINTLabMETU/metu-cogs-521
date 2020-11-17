@@ -1,0 +1,1 @@
+spraying (csubj) the (det) wheel (dobj) with (prep) spray (compound) bottle (pobj) of (prep) Dawn (pobj) and (cc) water (conj) can (aux) help (ROOT) you (nsubj) locate (ccomp) leaks (dobj)

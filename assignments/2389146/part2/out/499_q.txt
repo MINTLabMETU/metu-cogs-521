@@ -1,0 +1,1 @@
+what (dobj) does (aux) MK (nsubj) mean (ROOT) for (prep) the (det) speed (pobj) Birdies (dobj). mark (ROOT). the (det) latest (amod) model (nsubj) would (aux) the (det) Mark (compound) disc (compound) brake (compound) version (ROOT). looks (ROOT) like (mark) it (nsubj) cost (advcl)

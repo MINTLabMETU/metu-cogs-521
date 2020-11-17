@@ -1,0 +1,1 @@
+think (ROOT) the (det) original (amod) context (nsubj) was (ccomp) about (prep) guy (nsubj) wondering (pcomp) if (mark) he (nsubj) would (aux) have (ccomp) problems (dobj) buying (acl) because (mark) he (nsubj) feared (advcl) they (nsubjpass) were (aux) being (auxpass) phased (ccomp) out (prt)

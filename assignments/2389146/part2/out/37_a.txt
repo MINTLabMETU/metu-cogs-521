@@ -1,0 +1,1 @@
+that (nsubj) s (ROOT) It (attr). so (advmod) for (prep) me (nsubj) bring (ROOT) the (det) Ape (compound) Hangers (dobj) and (cc) Banana (compound) Seat (conj). want (ROOT) adult (compound) Stingray (dobj). think (ROOT) Ill (nsubj) build (ccomp) one (dobj)

@@ -1,0 +1,1 @@
+in (ROOT) everyone (nmod) honest (amod) opinion (pobj) how (advmod) close (acomp) normal (amod) road (compound) bike (dobj) can (punct) the (det) swift (pobj) made (acl) into (prep)

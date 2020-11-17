@@ -1,0 +1,1 @@
+i (nsubj) ve (aux) said (ROOT) the (det) same (amod) thing (nsubj) since (mark) came (ccomp) out (prt). it (nsubj) will (aux) never (neg) make (ROOT) sense (dobj) me (dobj) why (advmod) they (nsubj) did (ccomp) that (dobj)

@@ -1,0 +1,1 @@
+unfortunately (advmod) the (det) cheap (amod) crap (compound) bikes (ROOT) that (mark) wal (compound) - (punct) mart (compound) sells (nsubj) is (ccomp) not (neg) any (det) indication (attr) of (prep) what (attr) the (det) actual (amod) bike (compound) industry (nsubj) is (pcomp) or (cc) int (conj) doing (xcomp)

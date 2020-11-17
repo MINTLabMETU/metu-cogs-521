@@ -1,0 +1,1 @@
+could (aux) nt (neg) doubt (ROOT) it (dobj). as (mark) noted (ROOT) earlier (advmod). will (aux) go (ROOT) the (det) way (dobj) of (prep) . (punct)

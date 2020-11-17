@@ -1,0 +1,1 @@
+hi (intj) kb (npadvmod) Would (aux) you (nsubj) please (intj) point (ROOT) me (dobj) the (det) notice (dobj) the (det) main (amod) site (npadvmod) with (prep) the (det) out (pobj) of (prep) stock (compound) message (pobj). thanks (ROOT)

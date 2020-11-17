@@ -1,0 +1,1 @@
+interesting (nsubj) also (advmod) would (aux) like (intj) see (ROOT) how (advmod) it (nsubj) folds (ccomp). where (advmod) is (auxpass) it (nsubjpass) manufactured (ROOT)
