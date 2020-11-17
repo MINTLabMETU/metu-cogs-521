@@ -1,0 +1,104 @@
+import string
+import glob
+import nltk
+
+
+
+#to read the input data
+with open ("in", "r") as f:
+    text = f.read()
+    #print(text)
+    
+    
+    
+#spliting each row as a item in a list
+    splitlined = text.splitlines()
+    #print(splitlined)
+    
+ 
+    
+# spliting discourses of child and mother,then save as an text file
+    child_discourses=[]
+    mother_discourses=[]
+    
+    
+    for sentence in splitlined:
+    #    print(sentence)
+        sentence_split = sentence.split(":")
+        if sentence_split[0]=="CHI":
+            child_discourses.append(sentence_split[1])
+        elif sentence_split[0]=="MOT":
+            mother_discourses.append(sentence_split[1])
+    #print(mother_sentence)
+    
+    
+with open ("mother.txt", "w") as f:
+    for sentence in mother_discourses:
+        f.writelines(sentence+"\n")
+        
+        
+with open ("child.txt", "w") as f:
+    for sentence in child_discourses:
+        f.writelines(sentence+"\n")
+        
+        
+        
+        
+#read new texts and tokenize
+  
+  with open ("child.txt", "r") as f:
+    child = f.read()
+    #print(child)
+    words = child.split()
+    print(words)
+        
+        
+   with open ("mother.txt", "r") as f:
+    mother = f.read()
+    #print(mother)
+    wordsM = mother.split()
+    print(wordsM)     
+        
+            
+    
+#remove certain items (was not processed to keep it as an sentence delimiter)
+    while words.count("â–¶") > 0:
+    words.remove("â–¶" )
+print(words)
+
+while wordsM.count("â–¶") > 0:
+    wordsM.remove("â–¶" )
+print(wordsM)
+
+    
+                        
+ #get rid of punctuation
+    table = str.maketrans("", "", string.punctuation)
+    stripped = [w.translate(table) for w in words]
+    print(stripped)
+    
+    table = str.maketrans("", "", string.punctuation)
+    strippedM = [w.translate(table) for w in wordsM]
+    print(strippedM)
+    
+ #save as an out file
+    with open ("child_out", "w") as f:
+        for sentence in stripped:
+            f.writelines(sentence+"\n")
+            
+      with open ("mother_out", "w") as f:
+        for sentence in strippedM:
+            f.writelines(sentence+"\n")      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+#get back together(justincase)
+    #assembled = " ".join(stripped)
+    #print(assembled)

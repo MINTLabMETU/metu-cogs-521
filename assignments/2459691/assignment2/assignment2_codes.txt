@@ -1,0 +1,18 @@
+with open ("child_in", "r") as f:
+    child = f.read()
+    
+    
+    import spacy
+nlp = spacy.load('en_core_web_sm')
+
+# Create an nlp object
+doc = nlp(child)
+
+nlp.disable_pipes('tagger', 'parser')
+
+nlp.pipe_names
+
+#dependency parcing
+
+for token in doc:
+    print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_)
